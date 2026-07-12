@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "EA Sports FC 27 - Release Date, Ratings & Ultimate Team",
+      "description": "Track EA Sports FC 27 release news, trailers, gameplay, Ultimate Team, Career Mode, player ratings, platforms, editions, and official updates in one place.",
+      "keywords": "EA Sports FC 27, FC 27, release date, ratings, Ultimate Team, Career Mode, gameplay",
+      "ogTitle": "EA Sports FC 27 - Release Date, Ratings & Ultimate Team",
+      "ogDescription": "Track EA Sports FC 27 release news, trailers, gameplay, Ultimate Team, Career Mode, player ratings, platforms, editions, and official updates in one place.",
+      "twitterTitle": "EA Sports FC 27 - Release Date, Ratings & Ultimate Team",
+      "twitterDescription": "Track EA Sports FC 27 release news, trailers, gameplay, Ultimate Team, player ratings, and platforms in one place."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Upcoming Football Simulation",
+    "title": "EA Sports FC 27 Wiki",
+    "description": "Track EA Sports FC 27 release news, trailers, gameplay changes, Ultimate Team, Career Mode, Clubs, ratings, editions, and platform updates in one place.",
+    "getFreeCodesCTA": "Get Latest Updates",
+    "playOnSteamCTA": "Visit EA SPORTS FC",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "TBA",
+        "label": "Release Date"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "Confirmed",
+        "label": "EA Reference"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "Not Released",
+        "label": "Official Trailer"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "Early October",
+        "label": "Carryover Rewards"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Stay Ahead of EA Sports FC 27",
+    "description": "Join the EA SPORTS FC community on Discord for release news, FC 27 updates, Ultimate Team tips, and discussions!",
     "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "joinGame": "Visit EA SPORTS FC"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "EA Sports FC 27 Wiki",
+    "description": "Your unofficial hub for EA Sports FC 27 release news, ratings, Ultimate Team, Career Mode, Clubs, and gameplay coverage.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "reddit": "Reddit",
+    "youtube": "YouTube",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 EA Sports FC 27 Wiki. Not affiliated with Electronic Arts or EA SPORTS FC.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
