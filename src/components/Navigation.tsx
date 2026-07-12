@@ -95,11 +95,11 @@ export default function Navigation({ navPreviewData }: NavigationProps) {
 						href="/"
 						className="flex items-center space-x-2 hover:opacity-80 transition"
 					>
-						<div className="w-10 h-10 bg-[hsl(var(--nav-theme))] rounded-lg flex items-center justify-center font-bold text-xl">
-							L
+						<div className="w-10 h-10 bg-[hsl(var(--nav-theme))] rounded-lg flex items-center justify-center font-bold text-base">
+							FC
 						</div>
-						<span className="font-bold text-lg hidden sm:inline">Lucid Blocks</span>
-						<span className="font-bold text-lg sm:hidden">LB</span>
+						<span className="font-bold text-lg hidden sm:inline">EA Sports FC 27</span>
+						<span className="font-bold text-lg sm:hidden">FC 27</span>
 					</Link>
 
 					{/* Desktop Navigation */}

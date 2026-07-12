@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "EA Sports FC 27 Wiki - Release, Ratings & Ultimate Team",
+  "short_name": "EA Sports FC 27",
+  "description": "Track EA Sports FC 27 release news, trailers, gameplay, Ultimate Team, Career Mode, player ratings, platforms, editions, and official updates in one place.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#1f9d4d",
+  "background_color": "#0a0f0c",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
