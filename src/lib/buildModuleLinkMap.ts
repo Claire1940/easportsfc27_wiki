@@ -14,46 +14,30 @@ interface ArticleWithType extends ContentItem {
 
 // Module sub-field mapping: moduleKey -> { field, nameKey }
 const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
-  lucidBlocksBeginnerGuide: { field: 'steps', nameKey: 'title' },
-  lucidBlocksApotheosisCrafting: { field: 'cards', nameKey: 'name' },
-  lucidBlocksToolsAndWeapons: { field: 'items', nameKey: 'name' },
-  lucidBlocksStorageAndInventory: { field: 'solutions', nameKey: 'name' },
-  lucidBlocksQualiaAndBaseBuilding: { field: 'cards', nameKey: 'name' },
-  lucidBlocksWorldRegions: { field: 'regions', nameKey: 'name' },
-  lucidBlocksCreaturesAndEnemies: { field: 'creatures', nameKey: 'name' },
-  lucidBlocksMobilityGear: { field: 'items', nameKey: 'name' },
-  lucidBlocksFarmingAndGrowth: { field: 'sections', nameKey: 'name' },
-  lucidBlocksBestEarlyUnlocks: { field: 'priorities', nameKey: 'name' },
-  lucidBlocksAchievementTracker: { field: 'groups', nameKey: 'name' },
-  lucidBlocksSingleplayerAndPlatformFAQ: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSteamDeckAndController: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSettingsAndAccessibility: { field: 'settings', nameKey: 'name' },
-  lucidBlocksUpdatesAndPatchNotes: { field: 'entries', nameKey: 'title' },
-  lucidBlocksCrashFixAndTroubleshooting: { field: 'steps', nameKey: 'title' },
+  fcReleaseDate: { field: 'items', nameKey: 'title' },
+  fcPreOrderEditions: { field: 'items', nameKey: 'option' },
+  fcPlatformsCrossplay: { field: 'items', nameKey: 'category' },
+  fcUltimateTeam: { field: 'steps', nameKey: 'title' },
+  fcPlayerRatings: { field: 'players', nameKey: 'player' },
+  fcCareerMode: { field: 'features', nameKey: 'title' },
+  fcFormationsControls: { field: 'items', nameKey: 'label' },
+  fcClubsRush: { field: 'items', nameKey: 'title' },
 }
 
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  lucidBlocksBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  lucidBlocksApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  lucidBlocksToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  lucidBlocksStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  lucidBlocksQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  lucidBlocksWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  lucidBlocksCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  lucidBlocksMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  lucidBlocksFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  lucidBlocksBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  lucidBlocksAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  lucidBlocksSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  lucidBlocksSteamDeckAndController: ['steam deck', 'controller', 'proton'],
-  lucidBlocksSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  lucidBlocksUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  lucidBlocksCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  fcReleaseDate: ['release date', 'trailer', 'cover star', 'reveal', 'beta', 'announcement', 'launch'],
+  fcPreOrderEditions: ['editions', 'ultimate edition', 'pre order', 'ea play', 'early access', 'price'],
+  fcPlatformsCrossplay: ['platforms', 'crossplay', 'pc', 'ps5', 'xbox', 'nintendo switch', 'system requirements'],
+  fcUltimateTeam: ['ultimate team', 'squad', 'rivals', 'champions', 'squad battles', 'evolutions', 'transfer market'],
+  fcPlayerRatings: ['player ratings', 'pace', 'shooting', 'icons', 'hero cards', 'rating upgrades'],
+  fcCareerMode: ['career mode', 'manager career', 'player career', 'wonderkids', 'transfers', 'scouting', 'archetypes'],
+  fcFormationsControls: ['formations', 'tactics', 'controls', 'gameplay presets', 'competitive', 'authentic'],
+  fcClubsRush: ['clubs', 'rush', 'virtual pro', 'archetypes', 'drop in', 'playoffs', 'divisions'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['ea', 'sports', 'fc', '27', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
@@ -77,9 +61,15 @@ function matchScore(queryText: string, article: ArticleWithType, extraKeywords?:
 
   let score = 0
 
-  // Exact phrase match in title (stripped of "Lucid Blocks")
-  const strippedQuery = normalizedQuery.replace(/lucid blocks?\s*/g, '').trim()
-  const strippedTitle = normalizedTitle.replace(/lucid blocks?\s*/g, '').trim()
+  // Exact phrase match in title (stripped of "EA Sports FC 27")
+  const strippedQuery = normalizedQuery
+    .replace(/ea sports fc\s*\d*\s*/g, '')
+    .replace(/^fc\s*\d+\s*/g, '')
+    .trim()
+  const strippedTitle = normalizedTitle
+    .replace(/ea sports fc\s*\d*\s*/g, '')
+    .replace(/^fc\s*\d+\s*/g, '')
+    .trim()
   if (strippedQuery.length > 3 && strippedTitle.includes(strippedQuery)) {
     score += 100
   }
