@@ -1,0 +1,177 @@
+import { Monitor, Cpu, HardDrive, Shield, Zap, Info, Settings, HelpCircle } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Requisitos del Sistema de EA Sports FC 27: Guía de Configuración para PC",
+  description: "Consulta los requisitos del sistema previstos para EA Sports FC 27. Compara especificaciones mínimas y recomendadas de PC, necesidades de almacenamiento y benchmarks de hardware para 2026.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1a1a1a/00ff00?text=PC+System+Requirements",
+  date: "2026-07-12",
+  author: "Equipo de Wiki de EA Sports FC 27",
+  keywords: "ea sports fc 27 requisitos del sistema, pc gaming, especificaciones mínimas, especificaciones recomendadas, benchmark football game"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Palabra clave principal**: Comprender los **requisitos del sistema de ea sports fc 27** es esencial para una experiencia fluida a 60 FPS en PC.
+- **GPU Mínima**: Según los benchmarks recientes, una **Nvidia GTX 1050 Ti** o **AMD RX 570** es la base para el juego de nivel de entrada.
+- **RAM Recomendada**: Aunque 8 GB es el mínimo, se recomienda encarecidamente entre **12 GB y 16 GB** para las simulaciones de fútbol modernas.
+- **Almacenamiento**: Se espera un tamaño de instalación significativo de aproximadamente **100 GB**, preferiblemente en un **SSD NVMe**.
+- **Requisito de SO**: Un entorno de **Windows 10 u 11 de 64 bits** con soporte para DirectX 12 es obligatorio para la compatibilidad.
+</Callout>
+
+<Section icon={Monitor} title="Resumen de los Requisitos del Sistema Previstos para EA Sports FC 27">
+
+A medida que Electronic Arts se prepara para la próxima evolución en el Juego de Todos, los jugadores deben evaluar su hardware frente a los **requisitos del sistema de ea sports fc 27** previstos. Aunque las especificaciones oficiales suelen publicarse cerca de la ventana de lanzamiento a finales de septiembre, podemos establecer benchmarks muy precisos basados en la progresión del motor Frostbite y los títulos recientes de EA Sports FC.
+
+La transición hacia una física más avanzada y la suite tecnológica "Hypermotion" sugiere que, si bien el nivel de entrada sigue siendo accesible, el techo para los ajustes ultra en 4K continúa subiendo. Para los entusiastas de PC, esto significa equilibrar las velocidades de reloj de la CPU con una arquitectura de GPU moderna para asegurar que cada entrada y cada gol se rendericen sin tirones.
+
+| Componente de Hardware | Requisito Mínimo (Previsto) | Especificación Recomendada (Benchmark) |
+| :--- | :--- | :--- |
+| **Sistema Operativo** | Windows 10/11 (64-bit) | Windows 10/11 (64-bit) |
+| **Procesador (CPU)** | Intel i5-6600K / Ryzen 5 1600 | Intel i7-6700 / Ryzen 7 2700X |
+| **Memoria (RAM)** | 8 GB | 12 GB o 16 GB |
+| **Gráficos (GPU)** | Nvidia GTX 1050 Ti / RX 570 | Nvidia GTX 1660 / RX 5600 XT |
+| **Versión de DirectX** | Versión 12 | Versión 12 |
+| **Espacio en Disco** | 100 GB de espacio disponible | 100 GB (SSD Recomendado) |
+
+<Callout type="tip" title="Consejo de Rendimiento">
+Si utilizas un hardware que apenas cumple con las especificaciones mínimas, considera bajar primero los ajustes de "Calidad del césped" y "Detalle del público", ya que son las funciones que más recursos consumen en el motor de FC.
+</Callout>
+
+</Section>
+
+<Section icon={Cpu} title="Análisis Profundo de los Componentes de Hardware">
+
+Para dominar verdaderamente los **requisitos del sistema de ea sports fc 27**, uno debe entender cómo interactúan los diferentes componentes con el motor del juego. Las simulaciones de fútbol son únicas porque requieren cálculos de alta velocidad para la física del balón y el posicionamiento de la IA, mientras renderizan simultáneamente modelos de jugadores de alta fidelidad.
+
+<CardGrid cols={3}>
+  <Card title="Procesamiento de CPU">
+    - **Mínimo**: Procesadores de 4 núcleos
+    - **Recomendado**: Chips modernos de 8 núcleos
+    - Maneja la lógica de la IA y la física del árbitro
+  </Card>
+  <Card title="Renderizado de GPU">
+    - **Mínimo**: 4 GB de VRAM
+    - **Recomendado**: 6 GB+ de VRAM
+    - Crucial para las animaciones de Hypermotion
+  </Card>
+  <Card title="Memoria del Sistema">
+    - **Mínimo**: 8 GB DDR4
+    - **Recomendado**: 16 GB DDR4/DDR5
+    - Evita microtirones durante las repeticiones
+  </Card>
+</CardGrid>
+
+El procesador suele ser el cuello de botella en entornos de estadios grandes. Si tu CPU está desactualizada, podrías experimentar "input lag", donde tus pulsaciones de botones tardan más en registrarse en pantalla. Para la mejor experiencia competitiva en Ultimate Team o Clubes, asegurar que tu CPU mantenga una tasa de fotogramas estable es más importante que tener los ajustes gráficos más altos.
+
+| Característica | Impacto en el Rendimiento | Ajuste Recomendado para PC Económicas |
+| :--- | :--- | :--- |
+| **Resolución** | Muy Alto | 1080p |
+| **Resolución Dinámica** | Medio | Activado |
+| **Simulación de Pelo** | Alto | Desactivado |
+| **Oclusión Ambiental** | Medio | Bajo |
+| **Calidad de Texturas** | Alto | Medio |
+
+<Callout type="warning" title="Aviso sobre Anti-Cheat">
+Los títulos de EA Sports FC en PC utilizan el sistema EA Anti-Cheat (EAAC). Esto requiere una BIOS con Secure Boot (Arranque Seguro) habilitado en Windows 11. Si esto no está configurado, el juego no se iniciará independientemente de las especificaciones de tu hardware.
+</Callout>
+
+</Section>
+
+<Section icon={Settings} title="Guía de Optimización de PC Paso a Paso">
+
+Una vez que hayas confirmado que tu hardware cumple con los **requisitos del sistema de ea sports fc 27**, debes realizar una configuración limpia para maximizar la tasa de fotogramas. El juego en PC ofrece flexibilidad, pero también requiere un ajuste manual para evitar interferencias de software en segundo plano.
+
+<Steps>
+  <Step num="1" title="Actualizar Controladores de Gráficos">
+    Visita los sitios oficiales de Nvidia, AMD o Intel para descargar los últimos controladores listos para el juego. Estas actualizaciones suelen incluir optimizaciones específicas para el motor Frostbite utilizado en FC 27.
+  </Step>
+  <Step num="2" title="Configurar el Modo de Juego de Windows">
+    Habilita el "Modo de juego" en la configuración de Windows 10/11. Esto evita que Windows Update instale controladores en segundo plano y asigna más recursos de GPU a la ventana activa del juego.
+  </Step>
+  <Step num="3" title="Establecer el Plan de Energía en Alto Rendimiento">
+    Navega al Panel de control > Opciones de energía y selecciona "Alto rendimiento". Esto asegura que tu CPU no reduzca su velocidad de reloj para ahorrar energía durante partidos intensos.
+  </Step>
+  <Step num="4" title="Ajustar la Tasa de Refresco en el Juego">
+    Sincroniza la tasa de refresco del juego con la capacidad nativa de tu monitor (ej. 60Hz, 144Hz). Usar una tasa de fotogramas ilimitada puede provocar desgarros de pantalla (screen tearing) si G-Sync o FreeSync no están activos.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Ventaja del SSD">
+Instalar el juego en un SSD NVMe no solo reduce los tiempos de carga; también ayuda a eliminar texturas que aparecen de golpe ("pop-in") durante transiciones rápidas y celebraciones cinemáticas.
+</Callout>
+
+</Section>
+
+<Section icon={HardDrive} title="Requisitos de Almacenamiento y Conectividad">
+
+La huella física del juego es sustancial. Con la inclusión de más paquetes de comentarios localizados y activos de estadios en alta resolución, las demandas de almacenamiento se han estabilizado en un nivel alto. Más allá del espacio en disco, la calidad de tu conexión es vital para los componentes en línea del juego.
+
+| Tipo de Requisito | Especificación | Notas |
+| :--- | :--- | :--- |
+| **Espacio Total en Disco** | 100 GB | Mantén un 10% extra para parches de actualización |
+| **Velocidad de Internet** | 5 Mbps (Mín) / 25 Mbps (Rec) | Crucial para Ultimate Team Rivals |
+| **Tipo de Conexión** | Ethernet / Cableada | Evita el Wi-Fi para reducir la pérdida de paquetes |
+| **Vínculo de Cuenta** | Cuenta de EA | Requerido para todas las funciones de juego cruzado |
+
+Gestionar tu almacenamiento es una parte clave de los **requisitos del sistema de ea sports fc 27**. Si usas un HDD mecánico, es posible que el juego tarde varios minutos en cargar el menú principal, y la navegación por los menús puede sentirse lenta.
+
+<Callout type="info" title="Compatibilidad con Juego Cruzado">
+Los jugadores de PC se agrupan con usuarios de PlayStation 5 y Xbox Series X|S. Esto significa que la versión de PC es la versión de "generación actual", con todas las mecánicas de juego que no se encuentran en PS4 o Xbox One.
+</Callout>
+
+</Section>
+
+<Section icon={Zap} title="Lista de Verificación de Preparación Antes del Lanzamiento">
+
+Antes de la fecha oficial de lanzamiento, utiliza esta lista para asegurar que tu equipo esté totalmente preparado para el estreno de EA Sports FC 27. Seguir estos puntos evitará los problemas técnicos más comunes del primer día.
+
+<Checklist
+  id="pc-readiness"
+  title="Lista de Verificación para PC:"
+  items={[
+    "Verificar 100 GB de espacio libre en un SSD",
+    "Habilitar Secure Boot en la BIOS (Windows 11)",
+    "Desactivar aplicaciones de inicio innecesarias (superposiciones de Discord/Steam)",
+    "Comprobar la compatibilidad con DirectX 12 a través de DxDiag",
+    "Calibrar los controladores de tu mando o gamepad"
+  ]}
+/>
+
+<Callout type="tip" title="Configuración del Mando">
+Aunque el juego admite teclado y ratón, está diseñado para mandos. Asegúrate de que tu mando de Xbox o DualSense sea reconocido por la EA App o Steam antes de iniciar el juego por primera vez.
+</Callout>
+
+</Section>
+
+<Section icon={HelpCircle} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Puedo ejecutar EA Sports FC 27 en un portátil?",
+    answer: "Sí, siempre que el portátil tenga una GPU dedicada. Los gráficos integrados (como Intel UHD) probablemente tendrán dificultades para mantener una tasa de fotogramas jugable incluso en los ajustes más bajos."
+  },
+  {
+    question: "¿Son realmente suficientes 8 GB de RAM para los requisitos del sistema de ea sports fc 27?",
+    answer: "Es el requisito mínimo, pero es probable que experimentes tirones si tienes otras aplicaciones como Chrome o Spotify abiertas en segundo plano. 12 GB o 16 GB es el punto ideal."
+  },
+  {
+    question: "¿El juego admite resolución 4K en PC?",
+    answer: "Absolutamente. Si tienes una Nvidia RTX 3060 o superior, puedes apuntar cómodamente a la resolución 4K, aunque podrías necesitar usar DLSS o FSR para mantener 60 FPS en ajustes Ultra."
+  },
+  {
+    question: "¿Por qué se recomienda un SSD sobre un HDD?",
+    answer: "El juego transmite una cantidad masiva de datos durante los partidos. Un HDD es demasiado lento para seguir el ritmo de la transmisión de texturas de alta resolución, lo que provoca gráficos borrosos y tiempos de carga largos."
+  }
+]} />
+
+<Callout type="info" title="Descargo de Responsabilidad Final">
+Nota: A partir de julio de 2026, estos requisitos se basan en los benchmarks oficiales de EA para el ciclo actual del motor. Consulta siempre el sitio web oficial de EA Sports FC o la página de la tienda de Steam para las especificaciones finales de venta.
+</Callout>
+
+</Section>

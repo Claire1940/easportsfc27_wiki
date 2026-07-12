@@ -1,0 +1,199 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Nuevas características de EA Sports FC 27: Cambios en el juego y modo Carrera",
+  description: "Explora las nuevas características esperadas de EA Sports FC 27, incluyendo renovaciones en el modo Carrera, cambios en Ultimate Team y mecánicas de juego basadas en los primeros análisis de rendimiento.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/10b981/fff?text=FC+27+New+Features",
+  date: "2026-07-12",
+  author: "Equipo de Wiki de EA Sports FC 27",
+  keywords: "ea sports fc 27, nuevas características, modo carrera, jugabilidad, ultimate team, rush"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Enfoque Principal**: Detalles iniciales y análisis de rendimiento para las **nuevas características de EA Sports FC 27** en los modos principales.
+- **Sistema de Juego**: Introducción de ajustes tácticos preestablecidos, roles de jugador especializados y deslizadores de asistencia personalizados.
+- **Modo Carrera**: Introducción de escenarios de mánager en vivo, movimiento dinámico de mánagers y simulación de ligas más profunda.
+- **Clubes y Rush**: Expansión del formato Rush 5v5 junto con 13 arquetipos especializados de Pro Virtual.
+- **Recompensas de Traspaso**: Rutas de progresión activas en FC 26 que desbloquean directamente bonificaciones de inicio en FC 27.
+</Callout>
+
+<Section icon={Sparkles} title="Resumen de las nuevas características de EA Sports FC 27">
+
+El desarrollo de la franquicia EA Sports FC introduce varios ajustes anticipados en el terreno de juego virtual. Aunque Electronic Arts no ha publicado el tráiler de revelación oficial ni ha finalizado la lista de características para la próxima entrega, las actividades de traspaso establecidas y los análisis de rendimiento apuntan hacia una experiencia táctica muy refinada. El enfoque central de las **nuevas características de EA Sports FC 27** se centra en una simulación más profunda, consistencia mecánica y una personalización expandida del jugador.
+
+Para entender cómo el próximo título se construye sobre su predecesor, podemos analizar las bases estructurales establecidas por el motor actual. La siguiente tabla describe los pilares fundamentales que se espera definan la próxima generación de simulación de fútbol.
+
+| Pilar de Característica | Objetivo Principal | Impacto Esperado en el Juego |
+| :--- | :--- | :--- |
+| **Jugabilidad Auténtica** | Modo Carrera y Modos Offline | Simulación táctica más profunda, ritmo más lento y física de balón realista. |
+| **Mánager Live Hub** | Carrera de Mánager | Desafíos semanales rotativos basados en historias del fútbol real. |
+| **Arquetipos Pro** | Clubes y Rush | 13 rutas de desarrollo distintas con umbrales de atributos únicos. |
+| **Grupos de Crossplay** | Matchmaking Online | Matchmaking unificado entre plataformas de hardware de la misma generación. |
+
+<Callout type="tip" title="Perspectiva del Desarrollador">
+La transición hacia la \"Jugabilidad Auténtica\" como preajuste offline predeterminado representa un cambio importante. Los jugadores que prefieran una sensación competitiva rápida y muy responsiva deben activar el preajuste de \"Jugabilidad Competitiva\" en el menú de ajustes.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Mecánicas de Juego y Ajustes Tácticos">
+
+La acción en el campo en FC 27 recibirá ajustes significativos para equilibrar el juego casual y los esports competitivos. El sistema de doble preajuste separa la sensación del juego en dos experiencias distintas, asegurando que tanto los estrategas offline como los jugadores competitivos online encuentren su estilo preferido.
+
+### Formaciones Tácticas y Planes de Partido
+
+Elegir una formación que complemente las fortalezas naturales de tu plantilla es crucial. En lugar de obligar a los jugadores a usar una única formación meta, se recompensa la flexibilidad táctica. La siguiente tabla analiza las formaciones principales utilizadas para controlar el ritmo del partido.
+
+| Formación | Estilo Táctico | Rol de Jugador Clave | Seguridad Defensiva |
+| :--- | :--- | :--- | :--- |
+| **4-2-3-1 Abierta** | Control Equilibrado | Mediocampista Ofensivo Central | Alta |
+| **4-3-3 Contención** | Posesión y Amplitud | Mediocampista Defensivo | Media |
+| **4-4-2** | Contraataque Directo | Mediocampista Mixto (Box-to-Box) | Alta |
+| **5-2-3** | Sobrecarga de Carrileros | Carrileros Ofensivos | Muy Alta |
+
+<CardGrid cols={2}>
+  <Card title="Preajuste Competitivo">
+    - **Mayor capacidad de respuesta** y registro inmediato de comandos.
+    - Menor asistencia en pases y tiros para recompensar la habilidad manual.
+    - Optimizado para **Ultimate Team** y el matchmaking online de Clubes.
+  </Card>
+  <Card title="Preajuste Auténtico">
+    - **Ritmo realista** con un escalado natural de la fatiga.
+    - Errores de posicionamiento aumentados para entradas defensivas a destiempo.
+    - Configuración predeterminada para partidas guardadas de **Carrera de Mánager y Jugador**.
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Calibración de Controles">
+Configura siempre los ajustes de tu mando antes de entrar en modos competitivos. Asignar comandos clave como la Brega (L2/LT) y el Desmarque de Compañero (L1/LB) desde el principio te ayudará a adaptarte al motor de física actualizado.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Modo Carrera y Sistemas de Mánager en Vivo">
+
+Los modos Carrera de Mánager y Carrera de Jugador están experimentando sus cambios más significativos en años. La integración de elementos de servicio en vivo asegura que las partidas guardadas offline permanezcan conectadas a los acontecimientos del fútbol real a lo largo de la temporada.
+
+### El Mercado de Mánagers y la IA Dinámica
+
+En ediciones anteriores, los mánagers rivales permanecían fijos en sus clubes de forma indefinida. Una de las **nuevas características de EA Sports FC 27** más destacadas es el dinámico Mercado de Mánagers, que permite que los entrenadores controlados por la IA sean despedidos, contratados por otros equipos o se muevan voluntariamente entre clubes. Este movimiento altera las identidades tácticas de ligas enteras a medida que los nuevos mánagers implementan sus sistemas tácticos preferidos.
+
+<Steps>
+  <Step num="1" title="Selecciona un Punto de Inicio en Vivo">
+    Elige comenzar tu carrera como mánager utilizando clasificaciones de ligas, lesiones y datos de transferencias en tiempo real de la semana actual.
+  </Step>
+  <Step num="2" title="Establece la Identidad Táctica">
+    Define la filosofía de tu club (por ejemplo, Gegenpressing, Tiki-Taka) para influir en los informes de los ojeadores de la cantera y en la velocidad de desarrollo de los jugadores.
+  </Step>
+  <Step num="3" title="Gestiona Eventos Dinámicos">
+    Responde a eventos de la plantilla fuera del campo, demandas de contratos de los jugadores y expectativas de la directiva que cambian según el rendimiento semanal.
+  </Step>
+  <Step num="4" title="Navega por el Movimiento de Mánagers">
+    Mantente atento a los puestos vacantes en otras ligas simuladas si deseas buscar nuevas oportunidades profesionales.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Consejo de Desarrollo de Juveniles">
+Al buscar jóvenes promesas, prioriza a los jugadores con atributos físicos naturales altos. Las habilidades técnicas se pueden mejorar fácilmente mediante el sistema de entrenamiento enfocado, pero las bases físicas bajas son más difíciles de superar.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Traspaso y Progresión de Ultimate Team">
+
+El modo estrella Ultimate Team está diseñado para recompensar a los jugadores activos que realizan la transición desde la temporada anterior. Al completar hitos específicos, los propietarios de clubes pueden asegurar una ventaja significativa cuando se lancen la nueva aplicación web y el juego completo.
+
+### Estructura de Recompensas de Traspaso Esperada
+
+La entrega de las bonificaciones de traspaso está vinculada estrictamente a tu Cuenta de EA registrada. Completar las tareas designadas antes de las fechas límite de finales de verano garantiza que tus recompensas te estarán esperando en tus sobres iniciales.
+
+| Objetivo de Origen en FC 26 | Paquete de Recompensas en FC 27 | Calendario de Entrega |
+| :--- | :--- | :--- |
+| **Fase de Grupos de El Juego de Todos** | Consumibles Iniciales y Potenciadores | Lanzamiento del Juego |
+| **Viaje de Naciones Completado** | Selección de Jugador de Oro Especial | Lanzamiento del Juego |
+| **Hito Nivel 30 de la Temporada 9** | Equipación Temática Especial y Potenciador de XP | Principios de Octubre |
+
+<Checklist
+  id="ut-launch-checklist"
+  title="Lista de Verificación para el Lanzamiento de Ultimate Team:"
+  items={[
+    "Verifica que el correo electrónico de tu Cuenta de EA esté activo y accesible.",
+    "Completa el grupo de objetivos Viaje de Naciones antes de que expire el evento.",
+    "Alcanza el Nivel 30 en la Temporada 9 para asegurar el paquete de traspaso de principios de octubre.",
+    "Inicia sesión en la Web App el primer día para desbloquear los calendarios de recompensas diarias."
+  ]}
+/>
+
+<Callout type="info" title="Aviso sobre Plataformas">
+Las recompensas de traspaso no se transfieren entre familias de plataformas no relacionadas. Por ejemplo, el progreso completado en una consola Nintendo Switch no se puede canjear en una cuenta de PlayStation 5 o PC.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Evolución del Modo Clubes y Rush 5v5">
+
+El rápido modo Rush 5v5, integrado directamente en el centro de Clubes, recibe divisiones competitivas dedicadas y estructuras de torneos especializadas. Este formato ofrece una alternativa simplificada a los partidos tradicionales de 11v11, al tiempo que contribuye directamente al desarrollo de tu Pro Virtual.
+
+### Arquetipos de Pro Virtual y Crecimiento
+
+Progresar con tu Pro Virtual requiere ganar XP de Arquetipo (AXP) a través de las calificaciones de los partidos y los juegos de habilidad semanales. Los jugadores pueden crear y guardar múltiples equipaciones para adaptarse a diferentes roles tácticos dentro de su equipo.
+
+| Nombre del Arquetipo | Posición Principal | Enfoque de Atributo Clave | PlayStyle Firma |
+| :--- | :--- | :--- | :--- |
+| **Paradas** | Portero | Reflejos y Estirada | Gran Alcance |
+| **Jefe** | Defensa Central | Defensa y Físico | Leñador |
+| **Maestro** | Centrocampista | Pases y Regates | Pase con Rosca |
+| **Finalizador** | Delantero | Tiros y Ritmo | Zapatazo |
+
+<CardGrid cols={3}>
+  <Card title="Membresía Multi-Club">
+    - Únete a hasta **tres clubes diferentes** simultáneamente.
+    - Juega partidos con diferentes grupos de amigos sin tener que abandonar tu equipo competitivo principal.
+  </Card>
+  <Card title="Torneos Rush en Vivo">
+    - Participa en **eventos de eliminación** rotativos con restricciones de plantilla únicas.
+    - Gana recompensas cosméticas exclusivas, escudos de club y modificadores de XP.
+  </Card>
+  <Card title="Matchmaking Crossplay">
+    - Crossplay completo dentro de **plataformas de la misma generación** (PS5, Xbox Series X|S, PC).
+    - Emparejamiento separado para consolas de la generación anterior.
+  </Card>
+</CardGrid>
+
+<Callout type="tip" title="Ruta de Especialización">
+Cada uno de los 13 arquetipos cuenta con tres ramas de especialización distintas. Enfoca tus puntos de atributos en una sola rama para desbloquear poderosas habilidades PlayStyle+ al principio de tu carrera.
+</Callout>
+
+</Section>
+
+<Section icon={Map} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Cuáles son las nuevas características más anticipadas de EA Sports FC 27?",
+    answer: "Las características más esperadas incluyen el renovado y dinámico Mercado de Mánagers en el modo Carrera, la expansión del sistema de torneos Rush 5v5 y la introducción de 13 arquetipos especializados de Pro Virtual en Clubes."
+  },
+  {
+    question: "¿Cómo reclamo mis recompensas de traspaso en el nuevo juego?",
+    answer: "Para reclamar tus recompensas, debes usar exactamente la misma Cuenta de EA en ambos juegos. Las recompensas elegibles obtenidas de los objetivos de FC 26 se entregarán automáticamente a tu club en el lanzamiento o a principios de octubre."
+  },
+  {
+    question: "¿Se admite el crossplay entre diferentes generaciones de consolas?",
+    answer: "No. El matchmaking crossplay está restringido a plataformas de la misma generación. Los jugadores de PlayStation 5, Xbox Series X|S y PC pueden jugar juntos, mientras que PlayStation 4 y Xbox One forman un grupo de matchmaking separado."
+  },
+  {
+    question: "¿Puedo pertenecer a más de un club en el modo Clubes?",
+    answer: "Sí, el sistema multi-club actualizado permite que tu Pro Virtual sea un miembro activo de hasta tres clubes diferentes al mismo tiempo, lo que facilita jugar con distintos grupos de amigos."
+  }
+]} />
+
+</Section>
+
+_Descargo de responsabilidad: Este es un sitio web de seguimiento no oficial creado por fans. EA SPORTS FC 27 es una marca comercial de Electronic Arts Inc. Todas las características, patrones de lanzamiento y especificaciones discutidas se basan en referencias iniciales de desarrolladores y puntos de referencia históricos, y están sujetas a cambios antes del lanzamiento oficial del juego._

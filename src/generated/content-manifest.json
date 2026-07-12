@@ -1,1 +1,714 @@
-{}
+{
+  "de": {
+    "career": [
+      {
+        "slug": "ea-sports-fc-27-career-mode",
+        "file": "ea-sports-fc-27-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-manager-career-mode",
+        "file": "ea-sports-fc-27-manager-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-online-career-mode",
+        "file": "ea-sports-fc-27-online-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-player-career-mode",
+        "file": "ea-sports-fc-27-player-career-mode"
+      }
+    ],
+    "editions": [
+      {
+        "slug": "ea-sports-fc-27-ea-play",
+        "file": "ea-sports-fc-27-ea-play"
+      },
+      {
+        "slug": "ea-sports-fc-27-free-to-play",
+        "file": "ea-sports-fc-27-free-to-play"
+      },
+      {
+        "slug": "ea-sports-fc-27-pre-order",
+        "file": "ea-sports-fc-27-pre-order"
+      },
+      {
+        "slug": "ea-sports-fc-27-price",
+        "file": "ea-sports-fc-27-price"
+      },
+      {
+        "slug": "ea-sports-fc-27-ultimate-edition",
+        "file": "ea-sports-fc-27-ultimate-edition"
+      }
+    ],
+    "features": [
+      {
+        "slug": "ea-sports-fc-27-new-engine",
+        "file": "ea-sports-fc-27-new-engine"
+      },
+      {
+        "slug": "ea-sports-fc-27-new-features",
+        "file": "ea-sports-fc-27-new-features"
+      },
+      {
+        "slug": "ea-sports-fc-27-open-world",
+        "file": "ea-sports-fc-27-open-world"
+      },
+      {
+        "slug": "ea-sports-fc-27-stadiums",
+        "file": "ea-sports-fc-27-stadiums"
+      },
+      {
+        "slug": "ea-sports-fc-27-the-grounds",
+        "file": "ea-sports-fc-27-the-grounds"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "ea-sports-fc-27-beginner-guide",
+        "file": "ea-sports-fc-27-beginner-guide"
+      },
+      {
+        "slug": "ea-sports-fc-27-reddit",
+        "file": "ea-sports-fc-27-reddit"
+      },
+      {
+        "slug": "ea-sports-fc-27-should-i-get",
+        "file": "ea-sports-fc-27-should-i-get"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "ea-sports-fc-27-nintendo-switch",
+        "file": "ea-sports-fc-27-nintendo-switch"
+      },
+      {
+        "slug": "ea-sports-fc-27-pc",
+        "file": "ea-sports-fc-27-pc"
+      },
+      {
+        "slug": "ea-sports-fc-27-ps4",
+        "file": "ea-sports-fc-27-ps4"
+      },
+      {
+        "slug": "ea-sports-fc-27-ps5",
+        "file": "ea-sports-fc-27-ps5"
+      },
+      {
+        "slug": "ea-sports-fc-27-switch-2",
+        "file": "ea-sports-fc-27-switch-2"
+      },
+      {
+        "slug": "ea-sports-fc-27-system-requirements",
+        "file": "ea-sports-fc-27-system-requirements"
+      },
+      {
+        "slug": "ea-sports-fc-27-xbox",
+        "file": "ea-sports-fc-27-xbox"
+      }
+    ],
+    "ratings": [
+      {
+        "slug": "ea-sports-fc-27-hero-cards",
+        "file": "ea-sports-fc-27-hero-cards"
+      },
+      {
+        "slug": "ea-sports-fc-27-icons",
+        "file": "ea-sports-fc-27-icons"
+      },
+      {
+        "slug": "ea-sports-fc-27-player-ratings",
+        "file": "ea-sports-fc-27-player-ratings"
+      },
+      {
+        "slug": "ea-sports-fc-27-rating-upgrades-and-downgrades",
+        "file": "ea-sports-fc-27-rating-upgrades-and-downgrades"
+      },
+      {
+        "slug": "ea-sports-fc-27-real-faces",
+        "file": "ea-sports-fc-27-real-faces"
+      }
+    ],
+    "release": [
+      {
+        "slug": "ea-sports-fc-27-announcement",
+        "file": "ea-sports-fc-27-announcement"
+      },
+      {
+        "slug": "ea-sports-fc-27-beta",
+        "file": "ea-sports-fc-27-beta"
+      },
+      {
+        "slug": "ea-sports-fc-27-cover-star",
+        "file": "ea-sports-fc-27-cover-star"
+      },
+      {
+        "slug": "ea-sports-fc-27-cover",
+        "file": "ea-sports-fc-27-cover"
+      },
+      {
+        "slug": "ea-sports-fc-27-release-date",
+        "file": "ea-sports-fc-27-release-date"
+      },
+      {
+        "slug": "ea-sports-fc-27-trailer",
+        "file": "ea-sports-fc-27-trailer"
+      }
+    ],
+    "teams": [
+      {
+        "slug": "ea-sports-fc-27-brazilian-teams",
+        "file": "ea-sports-fc-27-brazilian-teams"
+      },
+      {
+        "slug": "ea-sports-fc-27-liga-mx",
+        "file": "ea-sports-fc-27-liga-mx"
+      },
+      {
+        "slug": "ea-sports-fc-27-new-leagues",
+        "file": "ea-sports-fc-27-new-leagues"
+      },
+      {
+        "slug": "ea-sports-fc-27-uefa-champions-league",
+        "file": "ea-sports-fc-27-uefa-champions-league"
+      },
+      {
+        "slug": "ea-sports-fc-27-world-cup",
+        "file": "ea-sports-fc-27-world-cup"
+      }
+    ]
+  },
+  "en": {
+    "career": [
+      {
+        "slug": "ea-sports-fc-27-career-mode",
+        "file": "ea-sports-fc-27-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-manager-career-mode",
+        "file": "ea-sports-fc-27-manager-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-online-career-mode",
+        "file": "ea-sports-fc-27-online-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-player-career-mode",
+        "file": "ea-sports-fc-27-player-career-mode"
+      }
+    ],
+    "editions": [
+      {
+        "slug": "ea-sports-fc-27-ea-play",
+        "file": "ea-sports-fc-27-ea-play"
+      },
+      {
+        "slug": "ea-sports-fc-27-free-to-play",
+        "file": "ea-sports-fc-27-free-to-play"
+      },
+      {
+        "slug": "ea-sports-fc-27-pre-order",
+        "file": "ea-sports-fc-27-pre-order"
+      },
+      {
+        "slug": "ea-sports-fc-27-price",
+        "file": "ea-sports-fc-27-price"
+      },
+      {
+        "slug": "ea-sports-fc-27-ultimate-edition",
+        "file": "ea-sports-fc-27-ultimate-edition"
+      }
+    ],
+    "features": [
+      {
+        "slug": "ea-sports-fc-27-new-engine",
+        "file": "ea-sports-fc-27-new-engine"
+      },
+      {
+        "slug": "ea-sports-fc-27-new-features",
+        "file": "ea-sports-fc-27-new-features"
+      },
+      {
+        "slug": "ea-sports-fc-27-open-world",
+        "file": "ea-sports-fc-27-open-world"
+      },
+      {
+        "slug": "ea-sports-fc-27-stadiums",
+        "file": "ea-sports-fc-27-stadiums"
+      },
+      {
+        "slug": "ea-sports-fc-27-the-grounds",
+        "file": "ea-sports-fc-27-the-grounds"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "ea-sports-fc-27-beginner-guide",
+        "file": "ea-sports-fc-27-beginner-guide"
+      },
+      {
+        "slug": "ea-sports-fc-27-reddit",
+        "file": "ea-sports-fc-27-reddit"
+      },
+      {
+        "slug": "ea-sports-fc-27-should-i-get",
+        "file": "ea-sports-fc-27-should-i-get"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "ea-sports-fc-27-nintendo-switch",
+        "file": "ea-sports-fc-27-nintendo-switch"
+      },
+      {
+        "slug": "ea-sports-fc-27-pc",
+        "file": "ea-sports-fc-27-pc"
+      },
+      {
+        "slug": "ea-sports-fc-27-ps4",
+        "file": "ea-sports-fc-27-ps4"
+      },
+      {
+        "slug": "ea-sports-fc-27-ps5",
+        "file": "ea-sports-fc-27-ps5"
+      },
+      {
+        "slug": "ea-sports-fc-27-switch-2",
+        "file": "ea-sports-fc-27-switch-2"
+      },
+      {
+        "slug": "ea-sports-fc-27-system-requirements",
+        "file": "ea-sports-fc-27-system-requirements"
+      },
+      {
+        "slug": "ea-sports-fc-27-xbox",
+        "file": "ea-sports-fc-27-xbox"
+      }
+    ],
+    "ratings": [
+      {
+        "slug": "ea-sports-fc-27-hero-cards",
+        "file": "ea-sports-fc-27-hero-cards"
+      },
+      {
+        "slug": "ea-sports-fc-27-icons",
+        "file": "ea-sports-fc-27-icons"
+      },
+      {
+        "slug": "ea-sports-fc-27-player-ratings",
+        "file": "ea-sports-fc-27-player-ratings"
+      },
+      {
+        "slug": "ea-sports-fc-27-rating-upgrades-and-downgrades",
+        "file": "ea-sports-fc-27-rating-upgrades-and-downgrades"
+      },
+      {
+        "slug": "ea-sports-fc-27-real-faces",
+        "file": "ea-sports-fc-27-real-faces"
+      }
+    ],
+    "release": [
+      {
+        "slug": "ea-sports-fc-27-announcement",
+        "file": "ea-sports-fc-27-announcement"
+      },
+      {
+        "slug": "ea-sports-fc-27-beta",
+        "file": "ea-sports-fc-27-beta"
+      },
+      {
+        "slug": "ea-sports-fc-27-cover-star",
+        "file": "ea-sports-fc-27-cover-star"
+      },
+      {
+        "slug": "ea-sports-fc-27-cover",
+        "file": "ea-sports-fc-27-cover"
+      },
+      {
+        "slug": "ea-sports-fc-27-release-date",
+        "file": "ea-sports-fc-27-release-date"
+      },
+      {
+        "slug": "ea-sports-fc-27-trailer",
+        "file": "ea-sports-fc-27-trailer"
+      }
+    ],
+    "teams": [
+      {
+        "slug": "ea-sports-fc-27-brazilian-teams",
+        "file": "ea-sports-fc-27-brazilian-teams"
+      },
+      {
+        "slug": "ea-sports-fc-27-liga-mx",
+        "file": "ea-sports-fc-27-liga-mx"
+      },
+      {
+        "slug": "ea-sports-fc-27-new-leagues",
+        "file": "ea-sports-fc-27-new-leagues"
+      },
+      {
+        "slug": "ea-sports-fc-27-uefa-champions-league",
+        "file": "ea-sports-fc-27-uefa-champions-league"
+      },
+      {
+        "slug": "ea-sports-fc-27-world-cup",
+        "file": "ea-sports-fc-27-world-cup"
+      }
+    ]
+  },
+  "es": {
+    "career": [
+      {
+        "slug": "ea-sports-fc-27-career-mode",
+        "file": "ea-sports-fc-27-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-manager-career-mode",
+        "file": "ea-sports-fc-27-manager-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-online-career-mode",
+        "file": "ea-sports-fc-27-online-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-player-career-mode",
+        "file": "ea-sports-fc-27-player-career-mode"
+      }
+    ],
+    "editions": [
+      {
+        "slug": "ea-sports-fc-27-ea-play",
+        "file": "ea-sports-fc-27-ea-play"
+      },
+      {
+        "slug": "ea-sports-fc-27-free-to-play",
+        "file": "ea-sports-fc-27-free-to-play"
+      },
+      {
+        "slug": "ea-sports-fc-27-pre-order",
+        "file": "ea-sports-fc-27-pre-order"
+      },
+      {
+        "slug": "ea-sports-fc-27-price",
+        "file": "ea-sports-fc-27-price"
+      },
+      {
+        "slug": "ea-sports-fc-27-ultimate-edition",
+        "file": "ea-sports-fc-27-ultimate-edition"
+      }
+    ],
+    "features": [
+      {
+        "slug": "ea-sports-fc-27-new-engine",
+        "file": "ea-sports-fc-27-new-engine"
+      },
+      {
+        "slug": "ea-sports-fc-27-new-features",
+        "file": "ea-sports-fc-27-new-features"
+      },
+      {
+        "slug": "ea-sports-fc-27-open-world",
+        "file": "ea-sports-fc-27-open-world"
+      },
+      {
+        "slug": "ea-sports-fc-27-stadiums",
+        "file": "ea-sports-fc-27-stadiums"
+      },
+      {
+        "slug": "ea-sports-fc-27-the-grounds",
+        "file": "ea-sports-fc-27-the-grounds"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "ea-sports-fc-27-beginner-guide",
+        "file": "ea-sports-fc-27-beginner-guide"
+      },
+      {
+        "slug": "ea-sports-fc-27-reddit",
+        "file": "ea-sports-fc-27-reddit"
+      },
+      {
+        "slug": "ea-sports-fc-27-should-i-get",
+        "file": "ea-sports-fc-27-should-i-get"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "ea-sports-fc-27-nintendo-switch",
+        "file": "ea-sports-fc-27-nintendo-switch"
+      },
+      {
+        "slug": "ea-sports-fc-27-pc",
+        "file": "ea-sports-fc-27-pc"
+      },
+      {
+        "slug": "ea-sports-fc-27-ps4",
+        "file": "ea-sports-fc-27-ps4"
+      },
+      {
+        "slug": "ea-sports-fc-27-ps5",
+        "file": "ea-sports-fc-27-ps5"
+      },
+      {
+        "slug": "ea-sports-fc-27-switch-2",
+        "file": "ea-sports-fc-27-switch-2"
+      },
+      {
+        "slug": "ea-sports-fc-27-system-requirements",
+        "file": "ea-sports-fc-27-system-requirements"
+      },
+      {
+        "slug": "ea-sports-fc-27-xbox",
+        "file": "ea-sports-fc-27-xbox"
+      }
+    ],
+    "ratings": [
+      {
+        "slug": "ea-sports-fc-27-hero-cards",
+        "file": "ea-sports-fc-27-hero-cards"
+      },
+      {
+        "slug": "ea-sports-fc-27-icons",
+        "file": "ea-sports-fc-27-icons"
+      },
+      {
+        "slug": "ea-sports-fc-27-player-ratings",
+        "file": "ea-sports-fc-27-player-ratings"
+      },
+      {
+        "slug": "ea-sports-fc-27-rating-upgrades-and-downgrades",
+        "file": "ea-sports-fc-27-rating-upgrades-and-downgrades"
+      },
+      {
+        "slug": "ea-sports-fc-27-real-faces",
+        "file": "ea-sports-fc-27-real-faces"
+      }
+    ],
+    "release": [
+      {
+        "slug": "ea-sports-fc-27-announcement",
+        "file": "ea-sports-fc-27-announcement"
+      },
+      {
+        "slug": "ea-sports-fc-27-beta",
+        "file": "ea-sports-fc-27-beta"
+      },
+      {
+        "slug": "ea-sports-fc-27-cover-star",
+        "file": "ea-sports-fc-27-cover-star"
+      },
+      {
+        "slug": "ea-sports-fc-27-cover",
+        "file": "ea-sports-fc-27-cover"
+      },
+      {
+        "slug": "ea-sports-fc-27-release-date",
+        "file": "ea-sports-fc-27-release-date"
+      },
+      {
+        "slug": "ea-sports-fc-27-trailer",
+        "file": "ea-sports-fc-27-trailer"
+      }
+    ],
+    "teams": [
+      {
+        "slug": "ea-sports-fc-27-brazilian-teams",
+        "file": "ea-sports-fc-27-brazilian-teams"
+      },
+      {
+        "slug": "ea-sports-fc-27-liga-mx",
+        "file": "ea-sports-fc-27-liga-mx"
+      },
+      {
+        "slug": "ea-sports-fc-27-new-leagues",
+        "file": "ea-sports-fc-27-new-leagues"
+      },
+      {
+        "slug": "ea-sports-fc-27-uefa-champions-league",
+        "file": "ea-sports-fc-27-uefa-champions-league"
+      },
+      {
+        "slug": "ea-sports-fc-27-world-cup",
+        "file": "ea-sports-fc-27-world-cup"
+      }
+    ]
+  },
+  "pt": {
+    "career": [
+      {
+        "slug": "ea-sports-fc-27-career-mode",
+        "file": "ea-sports-fc-27-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-manager-career-mode",
+        "file": "ea-sports-fc-27-manager-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-online-career-mode",
+        "file": "ea-sports-fc-27-online-career-mode"
+      },
+      {
+        "slug": "ea-sports-fc-27-player-career-mode",
+        "file": "ea-sports-fc-27-player-career-mode"
+      }
+    ],
+    "editions": [
+      {
+        "slug": "ea-sports-fc-27-ea-play",
+        "file": "ea-sports-fc-27-ea-play"
+      },
+      {
+        "slug": "ea-sports-fc-27-free-to-play",
+        "file": "ea-sports-fc-27-free-to-play"
+      },
+      {
+        "slug": "ea-sports-fc-27-pre-order",
+        "file": "ea-sports-fc-27-pre-order"
+      },
+      {
+        "slug": "ea-sports-fc-27-price",
+        "file": "ea-sports-fc-27-price"
+      },
+      {
+        "slug": "ea-sports-fc-27-ultimate-edition",
+        "file": "ea-sports-fc-27-ultimate-edition"
+      }
+    ],
+    "features": [
+      {
+        "slug": "ea-sports-fc-27-new-engine",
+        "file": "ea-sports-fc-27-new-engine"
+      },
+      {
+        "slug": "ea-sports-fc-27-new-features",
+        "file": "ea-sports-fc-27-new-features"
+      },
+      {
+        "slug": "ea-sports-fc-27-open-world",
+        "file": "ea-sports-fc-27-open-world"
+      },
+      {
+        "slug": "ea-sports-fc-27-stadiums",
+        "file": "ea-sports-fc-27-stadiums"
+      },
+      {
+        "slug": "ea-sports-fc-27-the-grounds",
+        "file": "ea-sports-fc-27-the-grounds"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "ea-sports-fc-27-beginner-guide",
+        "file": "ea-sports-fc-27-beginner-guide"
+      },
+      {
+        "slug": "ea-sports-fc-27-reddit",
+        "file": "ea-sports-fc-27-reddit"
+      },
+      {
+        "slug": "ea-sports-fc-27-should-i-get",
+        "file": "ea-sports-fc-27-should-i-get"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "ea-sports-fc-27-nintendo-switch",
+        "file": "ea-sports-fc-27-nintendo-switch"
+      },
+      {
+        "slug": "ea-sports-fc-27-pc",
+        "file": "ea-sports-fc-27-pc"
+      },
+      {
+        "slug": "ea-sports-fc-27-ps4",
+        "file": "ea-sports-fc-27-ps4"
+      },
+      {
+        "slug": "ea-sports-fc-27-ps5",
+        "file": "ea-sports-fc-27-ps5"
+      },
+      {
+        "slug": "ea-sports-fc-27-switch-2",
+        "file": "ea-sports-fc-27-switch-2"
+      },
+      {
+        "slug": "ea-sports-fc-27-system-requirements",
+        "file": "ea-sports-fc-27-system-requirements"
+      },
+      {
+        "slug": "ea-sports-fc-27-xbox",
+        "file": "ea-sports-fc-27-xbox"
+      }
+    ],
+    "ratings": [
+      {
+        "slug": "ea-sports-fc-27-hero-cards",
+        "file": "ea-sports-fc-27-hero-cards"
+      },
+      {
+        "slug": "ea-sports-fc-27-icons",
+        "file": "ea-sports-fc-27-icons"
+      },
+      {
+        "slug": "ea-sports-fc-27-player-ratings",
+        "file": "ea-sports-fc-27-player-ratings"
+      },
+      {
+        "slug": "ea-sports-fc-27-rating-upgrades-and-downgrades",
+        "file": "ea-sports-fc-27-rating-upgrades-and-downgrades"
+      },
+      {
+        "slug": "ea-sports-fc-27-real-faces",
+        "file": "ea-sports-fc-27-real-faces"
+      }
+    ],
+    "release": [
+      {
+        "slug": "ea-sports-fc-27-announcement",
+        "file": "ea-sports-fc-27-announcement"
+      },
+      {
+        "slug": "ea-sports-fc-27-beta",
+        "file": "ea-sports-fc-27-beta"
+      },
+      {
+        "slug": "ea-sports-fc-27-cover-star",
+        "file": "ea-sports-fc-27-cover-star"
+      },
+      {
+        "slug": "ea-sports-fc-27-cover",
+        "file": "ea-sports-fc-27-cover"
+      },
+      {
+        "slug": "ea-sports-fc-27-release-date",
+        "file": "ea-sports-fc-27-release-date"
+      },
+      {
+        "slug": "ea-sports-fc-27-trailer",
+        "file": "ea-sports-fc-27-trailer"
+      }
+    ],
+    "teams": [
+      {
+        "slug": "ea-sports-fc-27-brazilian-teams",
+        "file": "ea-sports-fc-27-brazilian-teams"
+      },
+      {
+        "slug": "ea-sports-fc-27-liga-mx",
+        "file": "ea-sports-fc-27-liga-mx"
+      },
+      {
+        "slug": "ea-sports-fc-27-new-leagues",
+        "file": "ea-sports-fc-27-new-leagues"
+      },
+      {
+        "slug": "ea-sports-fc-27-uefa-champions-league",
+        "file": "ea-sports-fc-27-uefa-champions-league"
+      },
+      {
+        "slug": "ea-sports-fc-27-world-cup",
+        "file": "ea-sports-fc-27-world-cup"
+      }
+    ]
+  }
+}

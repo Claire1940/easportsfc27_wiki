@@ -10,7 +10,16 @@
       "twitterDescription": "Track EA Sports FC 27 release news, trailers, gameplay, Ultimate Team, player ratings, and platforms in one place."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "editions": "Editions",
+    "platforms": "Platforms",
+    "career": "Career",
+    "features": "Features",
+    "teams": "Teams",
+    "ratings": "Ratings",
+    "guide": "Guide"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -307,13 +316,24 @@
       "subtitle": "Compare the latest official EA Sports FC ratings benchmark for elite players, pace leaders, young standouts and leaders in key positions.",
       "intro": "The official EA Sports FC ratings database powers direct comparison by overall rating, pace, shooting, passing, dribbling, defending and physicality. Use the category tags to find top-rated players, fastest players, young standouts and leaders in key positions.",
       "displayType": "filterable-table",
-      "categories": ["All", "Top Rated", "Fastest", "Best Shooter", "Best Dribbler", "Best Defender", "Young Player"],
+      "categories": [
+        "All",
+        "Top Rated",
+        "Fastest",
+        "Best Shooter",
+        "Best Dribbler",
+        "Best Defender",
+        "Young Player"
+      ],
       "players": [
         {
           "player": "Mohamed Salah",
           "team": "Liverpool",
           "position": "RM",
-          "categories": ["Top Rated", "Elite Dribbler"],
+          "categories": [
+            "Top Rated",
+            "Elite Dribbler"
+          ],
           "overall": 91,
           "pace": 89,
           "shooting": 88,
@@ -326,7 +346,10 @@
           "player": "Alexia Putellas",
           "team": "FC Barcelona",
           "position": "CM",
-          "categories": ["Top Rated", "Elite Passer"],
+          "categories": [
+            "Top Rated",
+            "Elite Passer"
+          ],
           "overall": 91,
           "pace": 82,
           "shooting": 89,
@@ -339,7 +362,10 @@
           "player": "Kylian Mbappé",
           "team": "Real Madrid",
           "position": "ST",
-          "categories": ["Top Rated", "Fastest"],
+          "categories": [
+            "Top Rated",
+            "Fastest"
+          ],
           "overall": 91,
           "pace": 97,
           "shooting": 90,
@@ -352,7 +378,10 @@
           "player": "Aitana Bonmatí",
           "team": "FC Barcelona",
           "position": "CM",
-          "categories": ["Top Rated", "Elite Dribbler"],
+          "categories": [
+            "Top Rated",
+            "Elite Dribbler"
+          ],
           "overall": 91,
           "pace": 85,
           "shooting": 87,
@@ -365,7 +394,10 @@
           "player": "Ousmane Dembélé",
           "team": "Paris SG",
           "position": "ST",
-          "categories": ["Top Rated", "Best Dribbler"],
+          "categories": [
+            "Top Rated",
+            "Best Dribbler"
+          ],
           "overall": 90,
           "pace": 91,
           "shooting": 88,
@@ -378,7 +410,10 @@
           "player": "Rodri",
           "team": "Manchester City",
           "position": "CDM",
-          "categories": ["Top Rated", "Elite Passer"],
+          "categories": [
+            "Top Rated",
+            "Elite Passer"
+          ],
           "overall": 90,
           "pace": 65,
           "shooting": 80,
@@ -391,7 +426,10 @@
           "player": "Virgil van Dijk",
           "team": "Liverpool",
           "position": "CB",
-          "categories": ["Top Rated", "Best Defender"],
+          "categories": [
+            "Top Rated",
+            "Best Defender"
+          ],
           "overall": 90,
           "pace": 73,
           "shooting": 60,
@@ -404,7 +442,10 @@
           "player": "Erling Haaland",
           "team": "Manchester City",
           "position": "ST",
-          "categories": ["Top Rated", "Best Shooter"],
+          "categories": [
+            "Top Rated",
+            "Best Shooter"
+          ],
           "overall": 90,
           "pace": 86,
           "shooting": 91,
@@ -417,7 +458,10 @@
           "player": "Lamine Yamal",
           "team": "FC Barcelona",
           "position": "RM",
-          "categories": ["Young Player", "Elite Dribbler"],
+          "categories": [
+            "Young Player",
+            "Elite Dribbler"
+          ],
           "overall": 89,
           "pace": 85,
           "shooting": 81,
@@ -430,7 +474,9 @@
           "player": "Karim Adeyemi",
           "team": "Borussia Dortmund",
           "position": "RM",
-          "categories": ["Fastest"],
+          "categories": [
+            "Fastest"
+          ],
           "overall": 81,
           "pace": 96,
           "shooting": 76,
@@ -443,7 +489,10 @@
           "player": "Pau Cubarsí",
           "team": "FC Barcelona",
           "position": "CB",
-          "categories": ["Young Player", "Best Defender"],
+          "categories": [
+            "Young Player",
+            "Best Defender"
+          ],
           "overall": 82,
           "pace": 70,
           "shooting": 42,
@@ -584,7 +633,11 @@
           "id": "formation-4231-wide",
           "label": "4-2-3-1 Wide — Balanced Control",
           "summary": "A safe all-round shape with two holding midfielders, three attacking midfielders and one striker.",
-          "bestFor": ["Balanced play", "Protecting the center", "Building through a number 10"],
+          "bestFor": [
+            "Balanced play",
+            "Protecting the center",
+            "Building through a number 10"
+          ],
           "roles": [
             "One holding CDM who stays central",
             "One mobile CDM who supports progression",
@@ -598,7 +651,11 @@
           "id": "formation-433-holding",
           "label": "4-3-3 Holding — Possession and Width",
           "summary": "A possession-friendly structure with a dedicated CDM, two central midfielders and natural width from both wingers.",
-          "bestFor": ["Possession", "High pressing", "Wide overloads"],
+          "bestFor": [
+            "Possession",
+            "High pressing",
+            "Wide overloads"
+          ],
           "roles": [
             "A defensive CDM screening the center backs",
             "One creative CM and one balanced CM",
@@ -612,7 +669,11 @@
           "id": "formation-442",
           "label": "4-4-2 — Direct Counterattack",
           "summary": "A simple two-striker system that gives clear passing lanes, defensive width and quick counterattacking options.",
-          "bestFor": ["Counterattacks", "Crossing", "Two-striker partnerships"],
+          "bestFor": [
+            "Counterattacks",
+            "Crossing",
+            "Two-striker partnerships"
+          ],
           "roles": [
             "One striker who runs in behind",
             "One striker who drops short or holds the ball",
@@ -626,7 +687,11 @@
           "id": "formation-523",
           "label": "5-2-3 — Defensive Security",
           "summary": "A back-three system with wingbacks and three forwards for extra protection without losing counterattacking width.",
-          "bestFor": ["Defending leads", "Blocking central attacks", "Wide counters"],
+          "bestFor": [
+            "Defending leads",
+            "Blocking central attacks",
+            "Wide counters"
+          ],
           "roles": [
             "A central center back who holds position",
             "Two outside center backs comfortable covering channels",
@@ -640,7 +705,11 @@
           "id": "gameplay-presets",
           "label": "Competitive vs Authentic Gameplay",
           "summary": "Use the gameplay preset that matches the mode and match feel you want.",
-          "bestFor": ["Online modes", "Offline modes", "Custom sliders"],
+          "bestFor": [
+            "Online modes",
+            "Offline modes",
+            "Custom sliders"
+          ],
           "roles": [
             "Competitive: tuned for faster responsiveness, consistency and direct control in Ultimate Team and Clubs.",
             "Authentic: tuned for realistic tempo, positioning, ball behavior and fatigue in Manager Career and Player Career.",
@@ -652,7 +721,11 @@
           "id": "attacking-controls",
           "label": "Essential Attacking Controls",
           "summary": "Core inputs for passing, shooting, crossing, sprinting and protecting the ball.",
-          "bestFor": ["Passing", "Shooting", "Crossing"],
+          "bestFor": [
+            "Passing",
+            "Shooting",
+            "Crossing"
+          ],
           "roles": [
             "Ground Pass or Header — PlayStation X, Xbox A",
             "Through Pass — PlayStation Triangle, Xbox Y",
@@ -669,7 +742,11 @@
           "id": "defending-controls",
           "label": "Essential Defending and Goalkeeper Controls",
           "summary": "Core inputs for switching, jockeying, pressing, tackling and rushing the goalkeeper.",
-          "bestFor": ["Defending", "Tackling", "Goalkeeper"],
+          "bestFor": [
+            "Defending",
+            "Tackling",
+            "Goalkeeper"
+          ],
           "roles": [
             "Change Player — L1 or Right Stick on PlayStation, LB or Right Stick on Xbox",
             "Jockey — L2 on PlayStation, LT on Xbox",
@@ -685,7 +762,11 @@
           "id": "pc-control-setup",
           "label": "PC Control Setup",
           "summary": "PC supports controller input and fully remappable keyboard controls.",
-          "bestFor": ["PC", "Keyboard", "Controller"],
+          "bestFor": [
+            "PC",
+            "Keyboard",
+            "Controller"
+          ],
           "roles": [
             "Open Settings and enter Customize Controls.",
             "Choose controller or keyboard input.",
@@ -715,7 +796,21 @@
         {
           "title": "Choose an Archetype",
           "summary": "Select a clear playing identity for your Virtual Pro and develop it through matches and Skill Games.",
-          "archetypes": ["Shot Stopper", "Sweeper Keeper", "Progressor", "Boss", "Engine", "Marauder", "Recycler", "Maestro", "Creator", "Spark", "Magician", "Finisher", "Target"],
+          "archetypes": [
+            "Shot Stopper",
+            "Sweeper Keeper",
+            "Progressor",
+            "Boss",
+            "Engine",
+            "Marauder",
+            "Recycler",
+            "Maestro",
+            "Creator",
+            "Spark",
+            "Magician",
+            "Finisher",
+            "Target"
+          ],
           "facts": [
             "There are 13 distinct Archetypes.",
             "The first Archetype is selected when entering Clubs.",
@@ -840,125 +935,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "EA Sports FC 27 Guides",
-      "description": "Complete EA Sports FC 27 guides covering release tracking, Ultimate Team, Career Mode, Clubs, gameplay, and player ratings.",
-      "metaTitle": "EA Sports FC 27 Guides - Release, Ultimate Team, Career & Clubs",
-      "metaDescription": "Browse EA Sports FC 27 guides covering the release date, Ultimate Team, Career Mode, Clubs, gameplay tactics, player ratings, platforms and editions.",
-      "categoryLabel": "FC 27 GUIDES",
-      "whatIs": "What are FC 27 Guides?",
-      "whatIsDescription": "Comprehensive EA Sports FC 27 guides covering release news, Ultimate Team, Career Mode, Clubs, gameplay tactics, formations, controls, and player ratings.",
-      "why": "Why read FC 27 guides?",
+    "release": {
+      "title": "EA Sports FC 27 Release Date & Trailer",
+      "description": "EA Sports FC 27 release date, cover reveal, announcement, official trailer, beta access and early access schedule — every launch detail in one place.",
+      "metaTitle": "EA Sports FC 27 Release Date, Trailer & Cover Reveal",
+      "metaDescription": "Track the EA Sports FC 27 release date, cover star, announcement, official trailer, beta access and early access unlock times across every region.",
+      "categoryLabel": "RELEASE",
+      "whatIs": "What is the FC 27 Release Tracker?",
+      "whatIsDescription": "The EA Sports FC 27 release tracker collects every launch detail — the official release date, cover star, announcement, reveal trailer, beta access windows and early access unlock times — so you always know exactly when and how the game arrives.",
+      "why": "Why follow the release tracker?",
       "whySteps": {
-        "step1Title": "Track the Release",
-        "step1Description": "Follow the FC 27 reveal, trailer, cover stars and release date",
-        "step2Title": "Master Every Mode",
-        "step2Description": "Learn Ultimate Team, Career Mode, Clubs and Rush systems",
-        "step3Title": "Compare Ratings",
-        "step3Description": "Find the best players, wonderkids and tactics for your squad"
+        "step1Title": "Know the Release Date",
+        "step1Description": "Find the official EA Sports FC 27 launch date and region unlock times",
+        "step2Title": "Catch the Reveal",
+        "step2Description": "Follow the cover star, announcement and reveal trailer as they drop",
+        "step3Title": "Get Early Access",
+        "step3Description": "Lock in beta access and early access through pre-orders and EA Play"
       },
       "featured": "Featured & Essential",
-      "all": "All FC 27 Guides"
+      "all": "All Release Guides"
     },
-    "ultimate-team": {
-      "title": "EA Sports FC 27 Ultimate Team",
-      "description": "Build squads, complete objectives, run Evolutions, trade on the Transfer Market and compete in Rivals, Squad Battles and Champions.",
-      "metaTitle": "EA Sports FC 27 Ultimate Team - Squads, Evolutions & Champions",
-      "metaDescription": "Master EA Sports FC 27 Ultimate Team with guides on squad building, objectives, Evolutions, the Transfer Market, Division Rivals, Squad Battles and Champions.",
-      "categoryLabel": "ULTIMATE TEAM",
-      "whatIs": "What is Ultimate Team?",
-      "whatIsDescription": "Ultimate Team is EA Sports FC 27's card-based squad mode. Build a club from player items, earn rewards through objectives and matches, and compete across online and offline modes.",
-      "why": "Why play Ultimate Team?",
+    "editions": {
+      "title": "EA Sports FC 27 Editions & Prices",
+      "description": "Compare every EA Sports FC 27 edition — Standard and Ultimate — with prices, pre-order bonuses, FC Points and early access days.",
+      "metaTitle": "EA Sports FC 27 Editions, Prices & Pre-Order Bonuses",
+      "metaDescription": "Compare EA Sports FC 27 Standard and Ultimate editions, prices, pre-order bonuses, FC Points, EA Play perks and early access days before you buy.",
+      "categoryLabel": "EDITIONS",
+      "whatIs": "What are FC 27 Editions?",
+      "whatIsDescription": "EA Sports FC 27 editions split the game into Standard and Ultimate packages, each with its own price, pre-order bonuses, FC Points allowance and early access window so you can pick the version that fits how you play.",
+      "why": "Why compare editions?",
       "whySteps": {
-        "step1Title": "Build Your Squad",
-        "step1Description": "Combine player items with strong chemistry links",
-        "step2Title": "Earn Rewards",
-        "step2Description": "Complete objectives, Evolutions and SBCs",
-        "step3Title": "Compete Online",
-        "step3Description": "Climb Division Rivals and weekend Champions"
+        "step1Title": "Pick the Right Version",
+        "step1Description": "Compare Standard and Ultimate edition contents side by side",
+        "step2Title": "Maximize Bonuses",
+        "step2Description": "Stack pre-order bonuses, FC Points and EA Play perks",
+        "step3Title": "Play Early",
+        "step3Description": "Use early access days to start before launch day"
       },
       "featured": "Featured & Essential",
-      "all": "All Ultimate Team Guides"
+      "all": "All Editions Guides"
     },
-    "player-ratings": {
-      "title": "EA Sports FC 27 Player Ratings",
-      "description": "Compare the best EA Sports FC 27 players by overall rating, pace, shooting, passing, dribbling, defending and physicality.",
-      "metaTitle": "EA Sports FC 27 Player Ratings - Best Players & Stats",
-      "metaDescription": "Browse EA Sports FC 27 player ratings for top-rated players, pace leaders, the best young players and leaders by position across every attribute.",
-      "categoryLabel": "PLAYER RATINGS",
-      "whatIs": "What are Player Ratings?",
-      "whatIsDescription": "EA Sports FC 27 player ratings score every player item across overall rating, pace, shooting, passing, dribbling, defending and physicality, powered by the official EA Sports FC ratings database.",
-      "why": "Why check player ratings?",
+    "platforms": {
+      "title": "EA Sports FC 27 Platforms & Crossplay",
+      "description": "EA Sports FC 27 platform support across PS5, PS4, Xbox, PC and Nintendo Switch — plus crossplay groups, PC system requirements and frame-rate differences.",
+      "metaTitle": "EA Sports FC 27 Platforms, Crossplay & PC System Requirements",
+      "metaDescription": "Get EA Sports FC 27 platform details for PS5, PS4, Xbox, PC and Nintendo Switch, including crossplay groups, PC system requirements and frame-rate differences.",
+      "categoryLabel": "PLATFORMS",
+      "whatIs": "What are FC 27 Platform Guides?",
+      "whatIsDescription": "EA Sports FC 27 platform guides cover every supported console and PC — PlayStation, Xbox, Nintendo Switch and PC — along with crossplay groups, PC system requirements and the frame-rate and feature differences between generations.",
+      "why": "Why check platform guides?",
       "whySteps": {
-        "step1Title": "Find the Best",
-        "step1Description": "Compare top-rated players overall",
-        "step2Title": "Spot Bargains",
-        "step2Description": "Identify pace, shooting and defending leaders",
-        "step3Title": "Track Wonderkids",
-        "step3Description": "Follow the best young players by position"
+        "step1Title": "Choose Your Platform",
+        "step1Description": "Compare PS5, PS4, Xbox, PC and Nintendo Switch support",
+        "step2Title": "Understand Crossplay",
+        "step2Description": "See which platforms can play together in crossplay groups",
+        "step3Title": "Run It on PC",
+        "step3Description": "Match the minimum and recommended PC system requirements"
       },
       "featured": "Featured & Essential",
-      "all": "All Player Ratings"
+      "all": "All Platform Guides"
     },
-    "career-mode": {
+    "career": {
       "title": "EA Sports FC 27 Career Mode",
-      "description": "Manage a club or develop a player with transfers, scouting, youth development and new Career Mode systems.",
-      "metaTitle": "EA Sports FC 27 Career Mode - Manager, Player Career & Wonderkids",
-      "metaDescription": "Master EA Sports FC 27 Career Mode with guides on Manager Career, Player Career Archetypes, transfers, scouting, wonderkids and new season features.",
-      "categoryLabel": "CAREER MODE",
-      "whatIs": "What is Career Mode?",
-      "whatIsDescription": "EA Sports FC 27 Career Mode lets you manage a club as a manager or control a single player's career, with transfers, scouting, youth development, Manager Live scenarios and 13 Player Career Archetypes.",
+      "description": "Master EA Sports FC 27 Career Mode — Manager Career, Player Career, online career, transfers, scouting, youth development and wonderkids.",
+      "metaTitle": "EA Sports FC 27 Career Mode - Manager, Player & Online Career",
+      "metaDescription": "Master EA Sports FC 27 Career Mode with guides on Manager Career, Player Career, online career, transfers, scouting, youth development and wonderkids.",
+      "categoryLabel": "CAREER",
+      "whatIs": "What is FC 27 Career Mode?",
+      "whatIsDescription": "EA Sports FC 27 Career Mode lets you take charge as a manager or control a single player's journey, with transfers, scouting, youth development and online career options to build a dynasty across multiple seasons.",
       "why": "Why play Career Mode?",
       "whySteps": {
-        "step1Title": "Build a Dynasty",
-        "step1Description": "Manage transfers, scouting and youth development",
-        "step2Title": "Live Scenarios",
-        "step2Description": "Take on rotating Manager Live challenges",
-        "step3Title": "Develop a Pro",
-        "step3Description": "Choose an Archetype and grow your player"
+        "step1Title": "Manage a Club",
+        "step1Description": "Run transfers, scouting and youth development as a manager",
+        "step2Title": "Build a Pro",
+        "step2Description": "Grow a single player from prospect to superstar",
+        "step3Title": "Play Online",
+        "step3Description": "Take your career online with friends and rivals"
       },
       "featured": "Featured & Essential",
       "all": "All Career Mode Guides"
     },
-    "clubs": {
-      "title": "EA Sports FC 27 Clubs and Rush",
-      "description": "Create a Club, develop a Virtual Pro, choose an Archetype and play Rush, Leagues, Playoffs and Live Events with friends.",
-      "metaTitle": "EA Sports FC 27 Clubs & Rush - Virtual Pro, Archetypes & Divisions",
-      "metaDescription": "Master EA Sports FC 27 Clubs and Rush with guides on creating a Club, developing a Virtual Pro, choosing Archetypes, climbing divisions and entering Live Events.",
-      "categoryLabel": "CLUBS AND RUSH",
-      "whatIs": "What are Clubs and Rush?",
-      "whatIsDescription": "EA Sports FC 27 Clubs lets you build a team with friends and develop a Virtual Pro across 13 Archetypes. Rush adds fast 5-a-side matches with ten divisions and rotating knockout Live Events.",
-      "why": "Why play Clubs and Rush?",
+    "features": {
+      "title": "EA Sports FC 27 Features & Gameplay",
+      "description": "EA Sports FC 27 new features, gameplay engine, open-world The Grounds, stadiums and every fresh system EA brings to the pitch.",
+      "metaTitle": "EA Sports FC 27 New Features, Engine & The Grounds",
+      "metaDescription": "Explore EA Sports FC 27 new features, the new gameplay engine, open-world The Grounds, stadiums and every fresh system that changes how the game plays.",
+      "categoryLabel": "FEATURES",
+      "whatIs": "What are FC 27 Features?",
+      "whatIsDescription": "EA Sports FC 27 features cover every new system EA adds to the game — the new gameplay engine, open-world The Grounds hub, redesigned stadiums and fresh match-to-match improvements that shape how each game feels.",
+      "why": "Why track new features?",
       "whySteps": {
-        "step1Title": "Build a Virtual Pro",
-        "step1Description": "Choose an Archetype and spend Attribute Points",
-        "step2Title": "Climb Divisions",
-        "step2Description": "Compete in Leagues, Playoffs and Rush",
-        "step3Title": "Play with Friends",
-        "step3Description": "Use crossplay and join up to three clubs"
+        "step1Title": "See What's New",
+        "step1Description": "Discover the gameplay engine and system changes for FC 27",
+        "step2Title": "Explore The Grounds",
+        "step2Description": "Tour the open-world hub and what you can do there",
+        "step3Title": "Tour the Stadiums",
+        "step3Description": "Check the redesigned stadiums and match atmospheres"
       },
       "featured": "Featured & Essential",
-      "all": "All Clubs and Rush Guides"
+      "all": "All Features Guides"
     },
-    "platforms": {
-      "title": "EA Sports FC 27 Platforms and Support",
-      "description": "PlayStation, Xbox, Nintendo Switch and PC platform support, crossplay groups, PC requirements and troubleshooting.",
-      "metaTitle": "EA Sports FC 27 Platforms, Crossplay & PC Requirements",
-      "metaDescription": "Get EA Sports FC 27 platform support including PlayStation, Xbox, Nintendo Switch and PC details, crossplay groups, PC hardware requirements and troubleshooting.",
-      "categoryLabel": "PLATFORMS & SUPPORT",
-      "whatIs": "What are Platforms and Support?",
-      "whatIsDescription": "EA Sports FC 27 platform guides cover supported consoles and PC, crossplay groups, PC hardware requirements, account setup, and troubleshooting for common technical issues.",
-      "why": "Why check platform guides?",
+    "teams": {
+      "title": "EA Sports FC 27 Teams & Leagues",
+      "description": "Every EA Sports FC 27 team and league — new licenses, Brazilian teams, Liga MX, UEFA Champions League and the World Cup mode.",
+      "metaTitle": "EA Sports FC 27 Teams, Leagues & World Cup Mode",
+      "metaDescription": "Browse EA Sports FC 27 teams and leagues, including new licenses, Brazilian teams, Liga MX, the UEFA Champions League and the World Cup mode.",
+      "categoryLabel": "TEAMS",
+      "whatIs": "What are FC 27 Teams & Leagues?",
+      "whatIsDescription": "EA Sports FC 27 teams and leagues cover every club and competition in the game — new licenses, Brazilian teams, Liga MX, the UEFA Champions League and a World Cup mode that lets you play the biggest tournament in football.",
+      "why": "Why browse teams & leagues?",
       "whySteps": {
-        "step1Title": "Pick a Platform",
-        "step1Description": "Compare PlayStation, Xbox, Switch and PC",
-        "step2Title": "Understand Crossplay",
-        "step2Description": "See which platforms play together",
-        "step3Title": "Run It on PC",
-        "step3Description": "Match the minimum and recommended PC specs"
+        "step1Title": "Find Your Club",
+        "step1Description": "Check whether your favorite teams and leagues are in FC 27",
+        "step2Title": "Track New Licenses",
+        "step2Description": "See which new leagues and clubs EA has added",
+        "step3Title": "Play the World Cup",
+        "step3Description": "Take a nation through the World Cup mode"
       },
       "featured": "Featured & Essential",
-      "all": "All Platform Guides"
+      "all": "All Teams Guides"
+    },
+    "ratings": {
+      "title": "EA Sports FC 27 Player Ratings",
+      "description": "EA Sports FC 27 player ratings, rating upgrades and downgrades, Icons, Hero cards and real faces — every player item ranked and compared.",
+      "metaTitle": "EA Sports FC 27 Player Ratings, Icons & Hero Cards",
+      "metaDescription": "Compare EA Sports FC 27 player ratings, rating upgrades and downgrades, Icons, Hero cards and real faces to find the best players for your squad.",
+      "categoryLabel": "RATINGS",
+      "whatIs": "What are FC 27 Player Ratings?",
+      "whatIsDescription": "EA Sports FC 27 player ratings score every player item across overall rating, pace, shooting, passing, dribbling, defending and physicality, alongside special Icons, Hero cards and real face scans so you know exactly who to sign.",
+      "why": "Why check player ratings?",
+      "whySteps": {
+        "step1Title": "Find the Best",
+        "step1Description": "Compare top-rated players overall and by attribute",
+        "step2Title": "Track Upgrades",
+        "step2Description": "Follow rating upgrades and downgrades through the season",
+        "step3Title": "Collect Specials",
+        "step3Description": "Hunt Icons, Hero cards and real-faced players"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Ratings Guides"
+    },
+    "guide": {
+      "title": "EA Sports FC 27 Guides",
+      "description": "Beginner guides, should-you-buy advice and community picks for EA Sports FC 27 — everything you need to decide and get started.",
+      "metaTitle": "EA Sports FC 27 Beginner Guide & Should You Buy",
+      "metaDescription": "Read EA Sports FC 27 beginner guides, should-you-buy advice and Reddit community picks to decide whether FC 27 is right for you and start strong.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "What are FC 27 Guides?",
+      "whatIsDescription": "EA Sports FC 27 guides help you decide whether the game is worth it and get up to speed fast — covering beginner essentials, should-you-buy breakdowns and the best community discussions from Reddit and beyond.",
+      "why": "Why read FC 27 guides?",
+      "whySteps": {
+        "step1Title": "Decide if It's for You",
+        "step1Description": "Read the should-you-buy breakdown before you commit",
+        "step2Title": "Start Strong",
+        "step2Description": "Learn the beginner essentials in your first matches",
+        "step3Title": "Join the Community",
+        "step3Description": "Tap into Reddit and the wider FC 27 community"
+      },
+      "featured": "Featured & Essential",
+      "all": "All FC 27 Guides"
     }
   }
 }
