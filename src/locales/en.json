@@ -14,7 +14,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Visit EA SPORTS FC",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -31,7 +31,7 @@
     "title": "EA Sports FC 27 Wiki",
     "description": "Track EA Sports FC 27 release news, trailers, gameplay changes, Ultimate Team, Career Mode, Clubs, ratings, editions, and platform updates in one place.",
     "getFreeCodesCTA": "Get Latest Updates",
-    "playOnSteamCTA": "Visit EA SPORTS FC",
+    "playOnRobloxCTA": "Visit EA SPORTS FC",
     "stats": {
       "stat1": {
         "value": "TBA",
@@ -42,7 +42,7 @@
         "label": "EA Reference"
       },
       "stat3": {
-        "value": "Not Released",
+        "value": "To Be Announced",
         "label": "Official Trailer"
       },
       "stat4": {
@@ -52,696 +52,735 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "EA Sports FC 27 Gameplay",
+    "description": "Track EA Sports FC 27 gameplay, Ultimate Team, Career Mode, Clubs, player ratings, and platform updates across PlayStation, Xbox, Nintendo Switch and PC."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "EA Sports FC 27",
+    "titleHighlight": "Guides",
+    "subtitle": "Everything you need to track EA Sports FC 27 — release, editions, platforms, Ultimate Team, ratings, Career Mode, tactics and Clubs.",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "icon": "CalendarClock",
+        "title": "Release Date & News",
+        "description": "Reveal, trailer, release schedule, cover stars and announcements"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "ShoppingBag",
+        "title": "Pre-Order & Editions",
+        "description": "Standard vs Ultimate editions, prices, bonuses and early access"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "MonitorSmartphone",
+        "title": "Platforms & Crossplay",
+        "description": "PlayStation, Xbox, Nintendo Switch, PC specs and crossplay groups"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Trophy",
+        "title": "Ultimate Team",
+        "description": "Squads, objectives, Rivals, Champions, Evolutions and market"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Award",
+        "title": "Player Ratings",
+        "description": "Top-rated, fastest, best young players and position leaders"
       },
       {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
+        "icon": "Briefcase",
+        "title": "Career Mode",
+        "description": "Manager and Player Career, transfers, scouting and wonderkids"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
+        "icon": "ClipboardList",
+        "title": "Formations & Controls",
+        "description": "Tactics, gameplay presets and PlayStation, Xbox, PC inputs"
       },
       {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "Users",
+        "title": "Clubs & Rush",
+        "description": "Virtual Pro, Archetypes, Rush, leagues, playoffs and events"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
-      "steps": [
-        {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
-        },
-        {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
-        },
-        {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
-        },
-        {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
-      ]
-    },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
-        },
-        {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
-        {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
-        },
-        {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
-        },
-        {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
-        },
-        {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
-        },
-        {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
-        },
-        {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
-        {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
-        },
-        {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
-        },
-        {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
-        },
-        {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
+    "fcReleaseDate": {
+      "eyebrow": "Release Tracker",
+      "title": "EA Sports FC 27 Release Date and Latest News",
+      "subtitle": "Follow the FC 27 reveal, release schedule, trailer, cover stars and official announcements — plus the first FC 27 carryover activities already live in FC 26.",
+      "intro": "EA has started referencing EA Sports FC 27 through official FC 26 carryover rewards. Track the reveal, trailer, cover athletes and release date here as EA announces them. Recent EA Sports FC titles have launched on the final Friday of September.",
       "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
+      "items": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "date": "June 2026",
+          "category": "Official FC 27 Update",
+          "title": "FC 27 Carryover Rewards Introduced",
+          "description": "EA confirmed that selected objectives completed in FC 26 deliver rewards in FC 27. Use the same EA Account in both games and log in to FC 27 to receive every eligible reward."
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "date": "June 2026",
+          "category": "World's Game Event",
+          "title": "Two FC 26 Activities Provide FC 27 Rewards",
+          "description": "Play one group-stage match in The World's Game mode and complete every region in the Ultimate Team Journey of Nations objective group. Complete both activities before their event deadlines."
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "date": "July 8, 2026",
+          "category": "Ultimate Team",
+          "title": "Season 9 Adds Another FC 27 Carryover Reward",
+          "description": "FC 26 World Tour Season 9 includes an FC 27 carryover reward at Level 30. Season 9 carryover rewards become available in FC 27 in early October and must be redeemed with the same EA Account by the announced early-November deadline."
+        },
+        {
+          "date": "July 12, 2026",
+          "category": "Reveal Tracking",
+          "title": "FC 27 Reveal and Cover Stars",
+          "description": "EA's official FC website and news pages currently spotlight FC 26. Watch this tracker for the FC 27 reveal trailer, cover athletes, editions, platforms and the worldwide release date as they go live."
+        },
+        {
+          "date": "September",
+          "category": "Release Pattern",
+          "title": "Recent Games Launched on the Final Friday of September",
+          "description": "EA Sports FC 24 launched on September 29, 2023, FC 25 launched on September 27, 2024 and FC 26 launched worldwide on September 26, 2025."
         }
       ]
     },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+    "fcPreOrderEditions": {
+      "eyebrow": "Edition Comparison",
+      "title": "EA Sports FC 27 Pre-Order, Editions and Early Access",
+      "subtitle": "Compare the FC 27 edition lineup, preorder bonuses and early-access options against the FC 26 Standard, Ultimate and EA Play launch structure.",
+      "intro": "Compare the FC 27 edition lineup, preorder bonuses and early-access options. FC 26 set the benchmark with Standard and Ultimate editions, seven days of Ultimate Edition early access, a 10-hour EA Play trial and unlimited EA Play Pro access on PC.",
+      "displayType": "comparison-table",
+      "items": [
+        {
+          "option": "EA Sports FC 27 Editions",
+          "availability": "To be announced",
+          "price": "To be announced",
+          "launchAccess": "Release and early-access dates to be confirmed",
+          "keyBenefits": "Preorder bonuses, FC Points, Premium Pass content and edition-specific rewards will be detailed when editions go live"
+        },
+        {
+          "option": "FC 26 Standard Edition Benchmark",
+          "availability": "Released September 26, 2025",
+          "price": "$69.99 US launch price",
+          "launchAccess": "Worldwide standard launch",
+          "keyBenefits": "Full game, one Archetype Unlock Consumable, two Double Archetype XP Consumables for 10 matches, three Career ICONs, a five-star coach, a five-star youth scout and Manager Live Challenge content"
+        },
+        {
+          "option": "FC 26 Ultimate Edition Benchmark",
+          "availability": "Released September 19, 2025",
+          "price": "$99.99 US launch price",
+          "launchAccess": "Up to seven days before the Standard Edition",
+          "keyBenefits": "Up to 6,000 FC Points over two months, Season 1 Premium Pass, an additional Ultimate Team Evolution slot, an untradeable FC 26 ICON item and the Standard Edition bonus content"
+        },
+        {
+          "option": "FC 26 Ultimate Edition on Nintendo Switch",
+          "availability": "Released September 19, 2025",
+          "price": "Regional store pricing",
+          "launchAccess": "Up to seven days before the Standard Edition",
+          "keyBenefits": "Up to 4,500 FC Points over two months instead of 6,000; FC 25 preorder content was excluded from Nintendo Switch and Nintendo Switch 2 versions"
+        },
+        {
+          "option": "EA Play",
+          "availability": "Active membership benefit",
+          "price": "Subscription price varies by platform and region",
+          "launchAccess": "Select new-release trials for up to 10 hours",
+          "keyBenefits": "Ten percent discount on EA digital game purchases, FC Points and downloadable content, plus rotating member rewards"
+        },
+        {
+          "option": "EA Play Pro on PC",
+          "availability": "PC membership",
+          "price": "Subscription price varies by region",
+          "launchAccess": "FC 26 Ultimate Edition access began September 19, 2025",
+          "keyBenefits": "Unlimited access while the membership remains active, Ultimate Edition content and EA Play Pro member benefits"
+        }
+      ]
+    },
+    "fcPlatformsCrossplay": {
+      "eyebrow": "Platform Guide",
+      "title": "EA Sports FC 27 Platforms, Crossplay and PC Requirements",
+      "subtitle": "Review the FC 27 platform lineup, the official EA Sports FC crossplay groups and the FC 26 PC hardware requirements used as the latest benchmark.",
+      "intro": "EA Sports FC connects PlayStation 5, Xbox Series X|S and PC in one crossplay group, keeps PlayStation 4 and Xbox One in a separate group, and runs Nintendo Switch systems independently. The FC 26 PC specifications below serve as the latest hardware benchmark ahead of the FC 27 announcement.",
+      "displayType": "table",
+      "items": [
+        {
+          "category": "EA Sports FC 27 Platforms",
+          "platforms": "To be announced",
+          "crossplay": "To be announced",
+          "notes": "The official FC 27 product and store pages will list supported platforms and crossplay details at launch"
+        },
+        {
+          "category": "Current-Generation Crossplay Group",
+          "platforms": "PlayStation 5, Xbox Series X|S and PC",
+          "crossplay": "Supported within this group",
+          "notes": "Players can match within this group and cannot match with the PlayStation 4 and Xbox One generation"
+        },
+        {
+          "category": "Previous-Generation Crossplay Group",
+          "platforms": "PlayStation 4 and Xbox One",
+          "crossplay": "Supported within this group",
+          "notes": "This group is separate from PlayStation 5, Xbox Series X|S and PC"
+        },
+        {
+          "category": "Nintendo Switch and Nintendo Switch 2",
+          "platforms": "Nintendo Switch family",
+          "crossplay": "No crossplay with PC, PlayStation or Xbox",
+          "notes": "Switch players use Nintendo-specific online and local multiplayer. Ultimate Team cross-progression is supported between Nintendo Switch and Nintendo Switch 2, but not between Nintendo systems and other platforms"
+        },
+        {
+          "category": "FC 26 PC Minimum Benchmark",
+          "platforms": "Windows 10 or Windows 11, 64-bit",
+          "crossplay": "Current-generation group",
+          "notes": "AMD Ryzen 5 1600 or Intel Core i5-6600K, 8 GB RAM, AMD RX 570 or Nvidia GTX 1050 Ti, DirectX 12 and 100 GB available storage"
+        },
+        {
+          "category": "FC 26 PC Recommended Benchmark",
+          "platforms": "Windows 10 or Windows 11, 64-bit",
+          "crossplay": "Current-generation group",
+          "notes": "AMD Ryzen 7 2700X or Intel Core i7-6700, 12 GB RAM, AMD RX 5600 XT or Nvidia GTX 1660, DirectX 12 and 100 GB available storage"
+        },
+        {
+          "category": "PC Account and Online Requirements",
+          "platforms": "EA app, Steam or Epic Games Store",
+          "crossplay": "EA Account required",
+          "notes": "Broadband internet, an EA Account, EA client software and EA Javelin Anticheat are required on PC"
+        }
+      ]
+    },
+    "fcUltimateTeam": {
+      "eyebrow": "Ultimate Team Guide",
+      "title": "EA Sports FC 27 Ultimate Team Beginner Guide",
+      "subtitle": "Prepare your EA Account, secure FC 27 carryover rewards and follow a clear route through objectives, squad building, Rivals, Squad Battles, Evolutions and Champions.",
+      "intro": "The best preparation starts in FC 26, where several activities already provide FC 27 rewards. When FC 27 launches, use the same EA Account, complete the introductory objectives, build a balanced first squad and begin with the mode that matches your skill level.",
+      "displayType": "step-by-step",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "step": 1,
+          "title": "Earn the FC 27 Carryover Rewards in FC 26",
+          "description": "Play one group-stage match in The World's Game mode and complete every region in the Journey of Nations Ultimate Team objective. World Tour Season 9 also provides an FC 27 carryover reward at Level 30.",
+          "result": "Eligible rewards become available after FC 27 launches"
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "step": 2,
+          "title": "Keep the Same EA Account",
+          "description": "Use the EA Account that earned your FC 26 rewards when creating or opening your FC 27 Ultimate Team club. Carryover rewards are tied to the account used to complete the original objectives.",
+          "result": "Your eligible FC 27 rewards deliver to the correct Ultimate Team club"
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "step": 3,
+          "title": "Set Up the Web App and Companion App",
+          "description": "The browser-based Web App and iOS or Android Companion App let you manage squads, complete Squad Building Challenges, claim rewards and use the Transfer Market away from your console or PC. FC 26's Web App opened on September 17, 2025 and its Companion App followed on September 18.",
+          "result": "You can organize your club before and between gameplay sessions"
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "step": 4,
+          "title": "Complete Foundations and Unlock the Transfer Market",
+          "description": "Finish the introductory Foundation objectives before spending heavily on players. In FC 26, new accounts completed the On Your Way objective group before full Transfer Market access opened after 24 hours on consoles or 48 hours on PC.",
+          "result": "You receive starter rewards and gain access to buying, bidding and searching the market"
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "step": 5,
+          "title": "Build a Balanced First Squad",
+          "description": "Fill every position with players who fit their natural roles and provide useful chemistry links. Keep early coins for important upgrades instead of replacing the entire team after every reward pack.",
+          "result": "A stable starting eleven with enough substitutes for objectives and rotating game modes"
+        },
+        {
+          "step": 6,
+          "title": "Use Objectives and Evolutions for Upgrades",
+          "description": "Check daily, weekly, seasonal and event objectives before playing matches so each game contributes to several rewards. Evolutions upgrade eligible player items through gameplay tasks, and FC 26 introduced repeatable Evolutions and goalkeeper Evolutions.",
+          "result": "Regular squad improvements without relying only on Transfer Market purchases"
+        },
+        {
+          "step": 7,
+          "title": "Start with Squad Battles or Division Rivals",
+          "description": "Squad Battles provides offline matches against CPU-controlled teams and allowed up to 18 weekly scoring matches in FC 26. Rivals begins in Division 10, runs through Divisions 10 to 1 plus the Elite Division, and provides weekly rewards based on progression.",
+          "result": "Choose Squad Battles for a controlled start or Rivals for online competition"
+        },
+        {
+          "step": 8,
+          "title": "Move into Champions When Your Squad Is Ready",
+          "description": "FC 26 removed Champions Playoffs. Players earned Champions Qualification Points from Division 7 and automatically qualified from Division 6 after collecting enough points, while Challengers provided a separate competition for Division 7 and lower players.",
+          "result": "A clear route from beginner divisions into higher-level weekend competition"
+        }
+      ]
+    },
+    "fcPlayerRatings": {
+      "eyebrow": "Player Database",
+      "title": "EA Sports FC 27 Player Ratings and Best Players",
+      "subtitle": "Compare the latest official EA Sports FC ratings benchmark for elite players, pace leaders, young standouts and leaders in key positions.",
+      "intro": "The official EA Sports FC ratings database powers direct comparison by overall rating, pace, shooting, passing, dribbling, defending and physicality. Use the category tags to find top-rated players, fastest players, young standouts and leaders in key positions.",
+      "displayType": "filterable-table",
+      "categories": ["All", "Top Rated", "Fastest", "Best Shooter", "Best Dribbler", "Best Defender", "Young Player"],
+      "players": [
+        {
+          "player": "Mohamed Salah",
+          "team": "Liverpool",
+          "position": "RM",
+          "categories": ["Top Rated", "Elite Dribbler"],
+          "overall": 91,
+          "pace": 89,
+          "shooting": 88,
+          "passing": 86,
+          "dribbling": 90,
+          "defending": 45,
+          "physical": 76
+        },
+        {
+          "player": "Alexia Putellas",
+          "team": "FC Barcelona",
+          "position": "CM",
+          "categories": ["Top Rated", "Elite Passer"],
+          "overall": 91,
+          "pace": 82,
+          "shooting": 89,
+          "passing": 90,
+          "dribbling": 91,
+          "defending": 72,
+          "physical": 80
+        },
+        {
+          "player": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "position": "ST",
+          "categories": ["Top Rated", "Fastest"],
+          "overall": 91,
+          "pace": 97,
+          "shooting": 90,
+          "passing": 81,
+          "dribbling": 92,
+          "defending": 37,
+          "physical": 76
+        },
+        {
+          "player": "Aitana Bonmatí",
+          "team": "FC Barcelona",
+          "position": "CM",
+          "categories": ["Top Rated", "Elite Dribbler"],
+          "overall": 91,
+          "pace": 85,
+          "shooting": 87,
+          "passing": 86,
+          "dribbling": 91,
+          "defending": 77,
+          "physical": 75
+        },
+        {
+          "player": "Ousmane Dembélé",
+          "team": "Paris SG",
+          "position": "ST",
+          "categories": ["Top Rated", "Best Dribbler"],
+          "overall": 90,
+          "pace": 91,
+          "shooting": 88,
+          "passing": 83,
+          "dribbling": 93,
+          "defending": 50,
+          "physical": 69
+        },
+        {
+          "player": "Rodri",
+          "team": "Manchester City",
+          "position": "CDM",
+          "categories": ["Top Rated", "Elite Passer"],
+          "overall": 90,
+          "pace": 65,
+          "shooting": 80,
+          "passing": 86,
+          "dribbling": 84,
+          "defending": 86,
+          "physical": 85
+        },
+        {
+          "player": "Virgil van Dijk",
+          "team": "Liverpool",
+          "position": "CB",
+          "categories": ["Top Rated", "Best Defender"],
+          "overall": 90,
+          "pace": 73,
+          "shooting": 60,
+          "passing": 72,
+          "dribbling": 72,
+          "defending": 90,
+          "physical": 87
+        },
+        {
+          "player": "Erling Haaland",
+          "team": "Manchester City",
+          "position": "ST",
+          "categories": ["Top Rated", "Best Shooter"],
+          "overall": 90,
+          "pace": 86,
+          "shooting": 91,
+          "passing": 70,
+          "dribbling": 80,
+          "defending": 45,
+          "physical": 88
+        },
+        {
+          "player": "Lamine Yamal",
+          "team": "FC Barcelona",
+          "position": "RM",
+          "categories": ["Young Player", "Elite Dribbler"],
+          "overall": 89,
+          "pace": 85,
+          "shooting": 81,
+          "passing": 86,
+          "dribbling": 90,
+          "defending": 23,
+          "physical": 53
+        },
+        {
+          "player": "Karim Adeyemi",
+          "team": "Borussia Dortmund",
+          "position": "RM",
+          "categories": ["Fastest"],
+          "overall": 81,
+          "pace": 96,
+          "shooting": 76,
+          "passing": 72,
+          "dribbling": 82,
+          "defending": 36,
+          "physical": 69
+        },
+        {
+          "player": "Pau Cubarsí",
+          "team": "FC Barcelona",
+          "position": "CB",
+          "categories": ["Young Player", "Best Defender"],
+          "overall": 82,
+          "pace": 70,
+          "shooting": 42,
+          "passing": 66,
+          "dribbling": 77,
+          "defending": 84,
+          "physical": 76
+        }
+      ]
+    },
+    "fcCareerMode": {
+      "eyebrow": "Career Mode",
+      "title": "EA Sports FC 27 Career Mode and Wonderkids",
+      "subtitle": "Build a long-term save with Manager Career systems, Player Career Archetypes and a shortlist of highly rated young players.",
+      "intro": "Start with Download Latest to load current transfers and ratings, then choose Manager Career or Player Career. This guide covers live scenarios, manager movement, deeper league simulation, scouting, player development and young players worth tracking from the official ratings database.",
+      "displayType": "card-list",
+      "features": [
+        {
+          "title": "Manager Live",
+          "mode": "Manager Career",
+          "summary": "A central hub for Full Career saves, Live Start Points and rotating challenges based on football storylines.",
+          "details": [
+            "Challenges refresh on weekly and monthly cycles.",
+            "Scenarios can use special objectives, squad rules and starting conditions.",
+            "Challenge completion can award Career kits and Season Pass progress."
+          ]
+        },
+        {
+          "title": "Manager Market",
+          "mode": "Manager Career",
+          "summary": "Managers can move between clubs instead of remaining fixed for the entire save.",
+          "details": [
+            "Opposition managers can be poached, sacked or pursue new jobs.",
+            "Manager movement creates changing tactical identities across the league.",
+            "Your own career can open new job opportunities as results and reputation change."
+          ]
+        },
+        {
+          "title": "Deeper Simulation and Scouting",
+          "mode": "Manager Career",
+          "summary": "Simulate more of the football world and use broader performance data when scouting transfer targets.",
+          "details": [
+            "Select up to five additional leagues to simulate alongside your main league.",
+            "Selected leagues retain deeper player and competition data.",
+            "Use position, age, attributes and recent performance to narrow transfer targets."
+          ]
+        },
+        {
+          "title": "Authentic Gameplay",
+          "mode": "Manager and Player Career",
+          "summary": "A Career-focused gameplay preset built around realistic tempo, positioning, passing variation and ball behavior.",
+          "details": [
+            "Authentic Gameplay is the default Career preset.",
+            "Custom sliders can adjust assistance, error, fatigue and defensive behavior.",
+            "Competitive Gameplay provides a faster and more responsive match feel."
+          ]
+        },
+        {
+          "title": "Unexpected Events",
+          "mode": "Manager Career",
+          "summary": "Dynamic off-pitch events add squad-management decisions and changing storylines during a season.",
+          "details": [
+            "Events can affect player availability, morale and planning.",
+            "The system creates different situations across separate saves.",
+            "Managers respond through squad rotation and short-term planning."
+          ]
+        },
+        {
+          "title": "Player Career Archetypes",
+          "mode": "Player Career",
+          "summary": "Choose from 13 distinct Archetypes inspired by football greats and develop a player around a clear on-pitch identity.",
+          "details": [
+            "Each Archetype has its own strengths, weaknesses and progression path.",
+            "Specializations add narrower roles and gameplay perks.",
+            "Training drills influence match XP gains for actions linked to your chosen style."
+          ]
+        }
+      ],
+      "wonderkids": [
+        {
+          "player": "Lamine Yamal",
+          "team": "FC Barcelona",
+          "age": 18,
+          "position": "RM",
+          "overall": 89,
+          "profile": "Elite young creator with 90 dribbling, 86 passing and 85 pace."
+        },
+        {
+          "player": "Pau Cubarsí",
+          "team": "FC Barcelona",
+          "age": 19,
+          "position": "CB",
+          "overall": 82,
+          "profile": "Young ball-playing center back with 84 defending, 86 long passing and 85 jumping."
+        },
+        {
+          "player": "Estêvão",
+          "team": "Chelsea",
+          "age": 19,
+          "position": "RM",
+          "overall": 78,
+          "profile": "Left-footed right midfielder suited to wide development and creative attacking roles."
+        },
+        {
+          "player": "Endrick",
+          "team": "Real Madrid",
+          "age": 19,
+          "position": "ST",
+          "overall": 77,
+          "profile": "Explosive young striker with 87 pace, 78 dribbling and 84 jumping."
+        },
+        {
+          "player": "Warren Zaïre-Emery",
+          "team": "Paris SG",
+          "age": 20,
+          "position": "CM",
+          "overall": 80,
+          "profile": "Young central midfielder suited to a long-term box-to-box or possession-focused role."
+        },
+        {
+          "player": "Arda Güler",
+          "team": "Real Madrid",
+          "age": 21,
+          "position": "RM",
+          "overall": 81,
+          "profile": "Creative left-footed midfielder with 83 passing, 83 dribbling and 81 long shots."
+        }
+      ]
+    },
+    "fcFormationsControls": {
+      "eyebrow": "Gameplay Guide",
+      "title": "EA Sports FC 27 Best Formations, Tactics and Controls",
+      "subtitle": "Choose a practical shape for possession, counters, pressing or defensive play, then learn the essential PlayStation, Xbox and PC inputs.",
+      "intro": "Start with a formation that matches your squad instead of forcing every team into one setup. Competitive Gameplay favors responsiveness and direct control, while Authentic Gameplay uses a more realistic tempo for offline modes such as Career.",
+      "displayType": "accordion",
+      "items": [
+        {
+          "id": "formation-4231-wide",
+          "label": "4-2-3-1 Wide — Balanced Control",
+          "summary": "A safe all-round shape with two holding midfielders, three attacking midfielders and one striker.",
+          "bestFor": ["Balanced play", "Protecting the center", "Building through a number 10"],
+          "roles": [
+            "One holding CDM who stays central",
+            "One mobile CDM who supports progression",
+            "Wide midfielders who track back and carry the ball",
+            "A CAM who receives between midfield and defense",
+            "A striker who can link play or attack the box"
+          ],
+          "matchPlan": "Use short combinations through the double pivot, switch wide when the middle is crowded and keep at least one CDM behind the ball."
+        },
+        {
+          "id": "formation-433-holding",
+          "label": "4-3-3 Holding — Possession and Width",
+          "summary": "A possession-friendly structure with a dedicated CDM, two central midfielders and natural width from both wingers.",
+          "bestFor": ["Possession", "High pressing", "Wide overloads"],
+          "roles": [
+            "A defensive CDM screening the center backs",
+            "One creative CM and one balanced CM",
+            "Wingers who stretch the back line",
+            "Fullbacks who overlap only when midfield cover is secure",
+            "A striker who occupies center backs"
+          ],
+          "matchPlan": "Circulate through the midfield three, create triangles near the touchline and avoid sending both fullbacks forward at the same time."
+        },
+        {
+          "id": "formation-442",
+          "label": "4-4-2 — Direct Counterattack",
+          "summary": "A simple two-striker system that gives clear passing lanes, defensive width and quick counterattacking options.",
+          "bestFor": ["Counterattacks", "Crossing", "Two-striker partnerships"],
+          "roles": [
+            "One striker who runs in behind",
+            "One striker who drops short or holds the ball",
+            "Wide midfielders who support both phases",
+            "One central midfielder who stays back",
+            "One central midfielder who carries forward"
+          ],
+          "matchPlan": "Defend in two compact lines, win the ball centrally and release a winger or the faster striker early."
+        },
+        {
+          "id": "formation-523",
+          "label": "5-2-3 — Defensive Security",
+          "summary": "A back-three system with wingbacks and three forwards for extra protection without losing counterattacking width.",
+          "bestFor": ["Defending leads", "Blocking central attacks", "Wide counters"],
+          "roles": [
+            "A central center back who holds position",
+            "Two outside center backs comfortable covering channels",
+            "Wingbacks with stamina and recovery pace",
+            "Two central midfielders who protect transitions",
+            "Wide forwards who stay ready for counters"
+          ],
+          "matchPlan": "Keep the midfield pair compact, release only one wingback at a time and attack quickly into the space outside the opponent's fullbacks."
+        },
+        {
+          "id": "gameplay-presets",
+          "label": "Competitive vs Authentic Gameplay",
+          "summary": "Use the gameplay preset that matches the mode and match feel you want.",
+          "bestFor": ["Online modes", "Offline modes", "Custom sliders"],
+          "roles": [
+            "Competitive: tuned for faster responsiveness, consistency and direct control in Ultimate Team and Clubs.",
+            "Authentic: tuned for realistic tempo, positioning, ball behavior and fatigue in Manager Career and Player Career.",
+            "Use custom sliders in offline modes to fine-tune assistance, passing error, shooting error, fatigue and defensive behavior."
+          ],
+          "matchPlan": "Pick Competitive for online play and Authentic for immersive offline Career saves."
+        },
+        {
+          "id": "attacking-controls",
+          "label": "Essential Attacking Controls",
+          "summary": "Core inputs for passing, shooting, crossing, sprinting and protecting the ball.",
+          "bestFor": ["Passing", "Shooting", "Crossing"],
+          "roles": [
+            "Ground Pass or Header — PlayStation X, Xbox A",
+            "Through Pass — PlayStation Triangle, Xbox Y",
+            "Shoot or Volley — PlayStation Circle, Xbox B",
+            "Lob Pass or Cross — PlayStation Square, Xbox X",
+            "Sprint — R2 on PlayStation, RT on Xbox",
+            "Protect Ball — L2 on PlayStation, LT on Xbox",
+            "Trigger Teammate Run — L1 on PlayStation, LB on Xbox",
+            "Call Teammate Short — R1 on PlayStation, RB on Xbox"
+          ],
+          "matchPlan": "PC players can remap every action in Customize Controls and use a controller for the full experience."
+        },
+        {
+          "id": "defending-controls",
+          "label": "Essential Defending and Goalkeeper Controls",
+          "summary": "Core inputs for switching, jockeying, pressing, tackling and rushing the goalkeeper.",
+          "bestFor": ["Defending", "Tackling", "Goalkeeper"],
+          "roles": [
+            "Change Player — L1 or Right Stick on PlayStation, LB or Right Stick on Xbox",
+            "Jockey — L2 on PlayStation, LT on Xbox",
+            "Sprint Jockey — L2 + R2 on PlayStation, LT + RT on Xbox",
+            "Standing Tackle — Circle on PlayStation, B on Xbox",
+            "Slide Tackle — Square on PlayStation, X on Xbox",
+            "Second Defender Press — Hold R1 on PlayStation, Hold RB on Xbox",
+            "Rush Goalkeeper — Hold Triangle on PlayStation, Hold Y on Xbox"
+          ],
+          "matchPlan": "Master jockeying and second-man press before relying on standing tackles."
+        },
+        {
+          "id": "pc-control-setup",
+          "label": "PC Control Setup",
+          "summary": "PC supports controller input and fully remappable keyboard controls.",
+          "bestFor": ["PC", "Keyboard", "Controller"],
+          "roles": [
+            "Open Settings and enter Customize Controls.",
+            "Choose controller or keyboard input.",
+            "Bind Ground Pass, Through Pass, Shoot, Cross, Sprint, Jockey and Player Switch first.",
+            "Use Input Overlay to confirm that local inputs are being registered during a match."
+          ],
+          "matchPlan": "Save multiple control profiles if you switch between keyboard and controller."
+        }
+      ]
+    },
+    "fcClubsRush": {
+      "eyebrow": "Clubs and Rush",
+      "title": "EA Sports FC 27 Clubs and Rush Guide",
+      "subtitle": "Create a Club, develop a Virtual Pro, climb divisions and play Rush, Live Events, Leagues and Playoffs with friends.",
+      "intro": "Clubs progression is built around 13 Archetypes, Archetype XP, Attribute Points, Signature PlayStyles and Specializations. Players can join multiple clubs, compete through ten Rush divisions and enter rotating knockout events with special rules and rewards.",
+      "displayType": "card-list",
+      "items": [
+        {
+          "title": "Create or Join a Club",
+          "summary": "Build a team with friends or join an existing Club before selecting a position and entering the lobby.",
+          "facts": [
+            "The lobby displays Role Fit and overall rating for open positions.",
+            "Set-piece assignments can be managed before matches.",
+            "Drop-In matches are available when your regular Club teammates are offline."
+          ]
+        },
+        {
+          "title": "Choose an Archetype",
+          "summary": "Select a clear playing identity for your Virtual Pro and develop it through matches and Skill Games.",
+          "archetypes": ["Shot Stopper", "Sweeper Keeper", "Progressor", "Boss", "Engine", "Marauder", "Recycler", "Maestro", "Creator", "Spark", "Magician", "Finisher", "Target"],
+          "facts": [
+            "There are 13 distinct Archetypes.",
+            "The first Archetype is selected when entering Clubs.",
+            "Other Archetypes can be unlocked with Clubs Coins, FC Points or Archetype Unlock consumables."
+          ]
+        },
+        {
+          "title": "Develop Your Virtual Pro",
+          "summary": "Earn Archetype XP in matches, spend Attribute Points and unlock more ways to specialize your build.",
+          "facts": [
+            "Role Rating provides the largest share of match AXP.",
+            "Gameplay actions also add AXP.",
+            "Signature PlayStyles can upgrade to PlayStyle+ through progression.",
+            "Custom PlayStyle slots require the relevant attribute thresholds.",
+            "Each Archetype has three Specialization paths and only one can be active at a time."
+          ]
+        },
+        {
+          "title": "Use Multiple Clubs",
+          "summary": "Move between different friend groups without leaving your main Club.",
+          "facts": [
+            "A player can be a member of up to three clubs at the same time.",
+            "The Switch Clubs menu allows free movement between joined clubs.",
+            "Rush and Playoff rewards are earned for one selected favorite club."
+          ]
+        },
+        {
+          "title": "Clubs Leagues and Playoffs",
+          "summary": "Climb divisions during league play, qualify for Playoffs and compete for promotion and seasonal rewards.",
+          "facts": [
+            "League performance determines divisional progress.",
+            "Playoffs provide a separate competitive target.",
+            "Foundations, Archetype, seasonal, weekly and daily objectives award progression rewards."
+          ]
+        },
+        {
+          "title": "Clubs Rush",
+          "summary": "Play fast 5-a-side matches and climb from the opening division toward Elite Rank.",
+          "facts": [
+            "Clubs Rush contains ten divisions.",
+            "Be-A-Goalkeeper is supported for true 5-a-side matches.",
+            "Rush uses the Clubs Virtual Pro and Archetype progression system.",
+            "Competitive Gameplay is locked for Clubs."
+          ]
+        },
+        {
+          "title": "Rush Live Events",
+          "summary": "Enter rotating single-elimination tournaments with entry requirements, special rules and event rewards.",
+          "facts": [
+            "Events can contain up to four knockout rounds.",
+            "Players have a limited number of attempts.",
+            "Entry rules can require a Rush rank, Archetype level or specific Archetype.",
+            "Special formats include Designated Scorer and Rugby Rush.",
+            "Rewards can include cosmetics, Archetype card backgrounds and progression consumables."
+          ]
+        },
+        {
+          "title": "Play Online with Friends",
+          "summary": "Invite friends through EA Connect and use cross-play within supported platform-generation groups.",
+          "facts": [
+            "PC, PlayStation 5 and Xbox Series X|S play in the current-generation cross-play group.",
+            "PlayStation 4 and Xbox One play in the older-generation cross-play group.",
+            "Nintendo Switch and Nintendo Switch 2 do not join the PC, PlayStation or Xbox cross-play pool.",
+            "Cross-play supports Clubs Drop-In, Friendlies, League, Playoffs, Practice, Rush and Live Events."
+          ]
         }
       ]
     }
@@ -749,31 +788,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about EA Sports FC 27",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "When is EA Sports FC 27 releasing?",
+        "answer": "EA Sports FC 27 is tracking toward a late-September release. EA Sports FC 24, FC 25 and FC 26 each launched on the final Friday of September, making that the established release window for FC 27. The exact worldwide release date will be confirmed in the official reveal."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "Which platforms will EA Sports FC 27 support?",
+        "answer": "EA Sports FC 27 is expected across the same platform family as recent titles: PlayStation 5, Xbox Series X|S, PlayStation 4, Xbox One, Nintendo Switch, Nintendo Switch 2 and PC. Crossplay groups follow the EA Sports FC structure, with current-generation consoles and PC in one pool and Nintendo Switch running independently."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Will EA Sports FC 27 have Ultimate Team carryover rewards?",
+        "answer": "Yes. EA has confirmed that selected FC 26 activities provide EA Sports FC 27 rewards. Play a group-stage match in The World's Game mode, complete every region in the Journey of Nations objective, and reach Level 30 in FC 26 World Tour Season 9, then use the same EA Account in FC 27 to receive the rewards."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "What is EA Sports FC 27 Ultimate Team?",
+        "answer": "EA Sports FC 27 Ultimate Team is the card-based squad mode where you build a club from player items, complete objectives, trade on the Transfer Market, run Evolutions, and compete in Division Rivals, Squad Battles and Champions. The Web App and Companion App let you manage your squad away from your console or PC."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "How does crossplay work in EA Sports FC 27?",
+        "answer": "EA Sports FC 27 crossplay connects players within platform-generation groups. PC, PlayStation 5 and Xbox Series X|S form the current-generation group, PlayStation 4 and Xbox One form the previous-generation group, and Nintendo Switch systems stay separate. Ultimate Team cross-progression is supported between Nintendo Switch and Nintendo Switch 2."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Where can I find EA Sports FC 27 player ratings?",
+        "answer": "EA Sports FC 27 player ratings come from the official EA Sports FC ratings database, which covers overall rating, pace, shooting, passing, dribbling, defending and physicality. Use the Player Ratings guide to compare top-rated players, pace leaders, the best young players and leaders by position."
       }
     ]
   },
@@ -802,124 +841,124 @@
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+      "title": "EA Sports FC 27 Guides",
+      "description": "Complete EA Sports FC 27 guides covering release tracking, Ultimate Team, Career Mode, Clubs, gameplay, and player ratings.",
+      "metaTitle": "EA Sports FC 27 Guides - Release, Ultimate Team, Career & Clubs",
+      "metaDescription": "Browse EA Sports FC 27 guides covering the release date, Ultimate Team, Career Mode, Clubs, gameplay tactics, player ratings, platforms and editions.",
+      "categoryLabel": "FC 27 GUIDES",
+      "whatIs": "What are FC 27 Guides?",
+      "whatIsDescription": "Comprehensive EA Sports FC 27 guides covering release news, Ultimate Team, Career Mode, Clubs, gameplay tactics, formations, controls, and player ratings.",
+      "why": "Why read FC 27 guides?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Track the Release",
+        "step1Description": "Follow the FC 27 reveal, trailer, cover stars and release date",
+        "step2Title": "Master Every Mode",
+        "step2Description": "Learn Ultimate Team, Career Mode, Clubs and Rush systems",
+        "step3Title": "Compare Ratings",
+        "step3Description": "Find the best players, wonderkids and tactics for your squad"
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All FC 27 Guides"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "ultimate-team": {
+      "title": "EA Sports FC 27 Ultimate Team",
+      "description": "Build squads, complete objectives, run Evolutions, trade on the Transfer Market and compete in Rivals, Squad Battles and Champions.",
+      "metaTitle": "EA Sports FC 27 Ultimate Team - Squads, Evolutions & Champions",
+      "metaDescription": "Master EA Sports FC 27 Ultimate Team with guides on squad building, objectives, Evolutions, the Transfer Market, Division Rivals, Squad Battles and Champions.",
+      "categoryLabel": "ULTIMATE TEAM",
+      "whatIs": "What is Ultimate Team?",
+      "whatIsDescription": "Ultimate Team is EA Sports FC 27's card-based squad mode. Build a club from player items, earn rewards through objectives and matches, and compete across online and offline modes.",
+      "why": "Why play Ultimate Team?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Build Your Squad",
+        "step1Description": "Combine player items with strong chemistry links",
+        "step2Title": "Earn Rewards",
+        "step2Description": "Complete objectives, Evolutions and SBCs",
+        "step3Title": "Compete Online",
+        "step3Description": "Climb Division Rivals and weekend Champions"
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Ultimate Team Guides"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "player-ratings": {
+      "title": "EA Sports FC 27 Player Ratings",
+      "description": "Compare the best EA Sports FC 27 players by overall rating, pace, shooting, passing, dribbling, defending and physicality.",
+      "metaTitle": "EA Sports FC 27 Player Ratings - Best Players & Stats",
+      "metaDescription": "Browse EA Sports FC 27 player ratings for top-rated players, pace leaders, the best young players and leaders by position across every attribute.",
+      "categoryLabel": "PLAYER RATINGS",
+      "whatIs": "What are Player Ratings?",
+      "whatIsDescription": "EA Sports FC 27 player ratings score every player item across overall rating, pace, shooting, passing, dribbling, defending and physicality, powered by the official EA Sports FC ratings database.",
+      "why": "Why check player ratings?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Find the Best",
+        "step1Description": "Compare top-rated players overall",
+        "step2Title": "Spot Bargains",
+        "step2Description": "Identify pace, shooting and defending leaders",
+        "step3Title": "Track Wonderkids",
+        "step3Description": "Follow the best young players by position"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Player Ratings"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "career-mode": {
+      "title": "EA Sports FC 27 Career Mode",
+      "description": "Manage a club or develop a player with transfers, scouting, youth development and new Career Mode systems.",
+      "metaTitle": "EA Sports FC 27 Career Mode - Manager, Player Career & Wonderkids",
+      "metaDescription": "Master EA Sports FC 27 Career Mode with guides on Manager Career, Player Career Archetypes, transfers, scouting, wonderkids and new season features.",
+      "categoryLabel": "CAREER MODE",
+      "whatIs": "What is Career Mode?",
+      "whatIsDescription": "EA Sports FC 27 Career Mode lets you manage a club as a manager or control a single player's career, with transfers, scouting, youth development, Manager Live scenarios and 13 Player Career Archetypes.",
+      "why": "Why play Career Mode?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Build a Dynasty",
+        "step1Description": "Manage transfers, scouting and youth development",
+        "step2Title": "Live Scenarios",
+        "step2Description": "Take on rotating Manager Live challenges",
+        "step3Title": "Develop a Pro",
+        "step3Description": "Choose an Archetype and grow your player"
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Career Mode Guides"
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "clubs": {
+      "title": "EA Sports FC 27 Clubs and Rush",
+      "description": "Create a Club, develop a Virtual Pro, choose an Archetype and play Rush, Leagues, Playoffs and Live Events with friends.",
+      "metaTitle": "EA Sports FC 27 Clubs & Rush - Virtual Pro, Archetypes & Divisions",
+      "metaDescription": "Master EA Sports FC 27 Clubs and Rush with guides on creating a Club, developing a Virtual Pro, choosing Archetypes, climbing divisions and entering Live Events.",
+      "categoryLabel": "CLUBS AND RUSH",
+      "whatIs": "What are Clubs and Rush?",
+      "whatIsDescription": "EA Sports FC 27 Clubs lets you build a team with friends and develop a Virtual Pro across 13 Archetypes. Rush adds fast 5-a-side matches with ten divisions and rotating knockout Live Events.",
+      "why": "Why play Clubs and Rush?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Build a Virtual Pro",
+        "step1Description": "Choose an Archetype and spend Attribute Points",
+        "step2Title": "Climb Divisions",
+        "step2Description": "Compete in Leagues, Playoffs and Rush",
+        "step3Title": "Play with Friends",
+        "step3Description": "Use crossplay and join up to three clubs"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Clubs and Rush Guides"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "platforms": {
+      "title": "EA Sports FC 27 Platforms and Support",
+      "description": "PlayStation, Xbox, Nintendo Switch and PC platform support, crossplay groups, PC requirements and troubleshooting.",
+      "metaTitle": "EA Sports FC 27 Platforms, Crossplay & PC Requirements",
+      "metaDescription": "Get EA Sports FC 27 platform support including PlayStation, Xbox, Nintendo Switch and PC details, crossplay groups, PC hardware requirements and troubleshooting.",
+      "categoryLabel": "PLATFORMS & SUPPORT",
+      "whatIs": "What are Platforms and Support?",
+      "whatIsDescription": "EA Sports FC 27 platform guides cover supported consoles and PC, crossplay groups, PC hardware requirements, account setup, and troubleshooting for common technical issues.",
+      "why": "Why check platform guides?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Pick a Platform",
+        "step1Description": "Compare PlayStation, Xbox, Switch and PC",
+        "step2Title": "Understand Crossplay",
+        "step2Description": "See which platforms play together",
+        "step3Title": "Run It on PC",
+        "step3Description": "Match the minimum and recommended PC specs"
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Platform Guides"
     }
   }
 }

@@ -28,6 +28,15 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // EA Sports FC 27 首页导航卡片图标
+  CalendarClock: LucideIcons.CalendarClock,
+  ShoppingBag: LucideIcons.ShoppingBag,
+  MonitorSmartphone: LucideIcons.MonitorSmartphone,
+  Trophy: LucideIcons.Trophy,
+  Award: LucideIcons.Award,
+  Briefcase: LucideIcons.Briefcase,
+  ClipboardList: LucideIcons.ClipboardList,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,
