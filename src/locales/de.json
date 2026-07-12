@@ -156,7 +156,7 @@
       "title": "EA Sports FC 27 Vorbestellung, Editionen und Early Access",
       "subtitle": "Vergleiche das FC 27-Editions-Lineup, die Vorbestellerboni und Early-Access-Optionen mit der Launch-Struktur von FC 26 Standard, Ultimate und EA Play.",
       "intro": "Vergleiche das FC 27-Editions-Lineup, die Vorbestellerboni und Early-Access-Optionen. FC 26 setzte den Maßstab mit der Standard und Ultimate Edition, sieben Tagen Early Access für die Ultimate Edition, einem 10-stündigen EA Play-Trial und unbegrenztem EA Play Pro-Zugriff auf PC.",
-      "displayType": "Vergleichstabelle",
+      "displayType": "comparison-table",
       "items": [
         {
           "option": "EA Sports FC 27 Editionen",
@@ -258,7 +258,7 @@
       "title": "EA Sports FC 27 Ultimate Team-Einsteigerleitfaden",
       "subtitle": "Bereite dein EA-Konto vor, sichere dir FC 27-Übertragungsbelohnungen und folge einem klaren Pfad durch Aufgaben, Squad Building, Rivals, Squad Battles, Evolutions und Champions.",
       "intro": "Die beste Vorbereitung beginnt in FC 26, wo bereits mehrere Aktivitäten FC 27-Belohnungen bieten. Wenn FC 27 veröffentlicht wird, verwende dasselbe EA-Konto, schließe die Einführungsaufgaben ab, baue ein ausgewogenes erstes Team auf und beginne mit dem Modus, der deinem Spielstärkegrad entspricht.",
-      "displayType": "Schritt für Schritt",
+      "displayType": "step-by-step",
       "steps": [
         {
           "step": 1,
@@ -684,7 +684,7 @@
           "matchPlan": "In zwei kompakten Linien verteidigen, den Ball im Zentrum erobern und früh einen Flügelspieler oder den schnelleren Stürmer schicken."
         },
         {
-          "id": "Formation-5-2-3",
+          "id": "formation-523",
           "label": "5-2-3 — Defensive Stabilität",
           "summary": "Ein Dreierkettensystem mit Flügelverteidigern und drei Stürmern für zusätzliche Absicherung, ohne die Breite bei Kontern zu verlieren.",
           "bestFor": [
@@ -702,7 +702,7 @@
           "matchPlan": "Das Mittelfeld-Duo kompakt halten, immer nur einen Flügelverteidiger aufrücken lassen und schnell in den Raum außerhalb der gegnerischen Außenverteidiger angreifen."
         },
         {
-          "id": "Gameplay-Voreinstellungen",
+          "id": "gameplay-presets",
           "label": "Kompetitives vs. Authentisches Gameplay",
           "summary": "Nutze die Gameplay-Voreinstellung, die zum gewünschten Modus und Spielgefühl passt.",
           "bestFor": [
@@ -718,7 +718,7 @@
           "matchPlan": "Wähle 'Kompetitiv' für Online-Spiele und 'Authentisch' für immersive Offline-Karrierespielstände."
         },
         {
-          "id": "Offensiv-Steuerung",
+          "id": "attacking-controls",
           "label": "Grundlegende Offensiv-Steuerung",
           "summary": "Grundlegende Eingaben für Passen, Schießen, Flanken, Sprinten und Ballabschirmung.",
           "bestFor": [
@@ -739,7 +739,7 @@
           "matchPlan": "PC-Spieler können jede Aktion unter „Steuerung anpassen“ neu belegen und einen Controller für das volle Spielerlebnis nutzen."
         },
         {
-          "id": "verteidigungssteuerung",
+          "id": "defending-controls",
           "label": "Grundlegende Abwehr- und Torwartsteuerung",
           "summary": "Grundlegende Eingaben für Spielerwechsel, Jockeyn, Pressing, Tackling und das Herauslaufenlassen des Torwarts.",
           "bestFor": [
@@ -759,7 +759,7 @@
           "matchPlan": "Meistere das Jockeyn und Mitspieler-Pressing, bevor du dich auf faire Tacklings verlässt."
         },
         {
-          "id": "pc-steuerungs-setup",
+          "id": "pc-control-setup",
           "label": "PC-Steuerungs-Setup",
           "summary": "Der PC unterstützt Controller-Eingaben und vollständig neu belegbare Tastatursteuerungen.",
           "bestFor": [
@@ -782,7 +782,7 @@
       "title": "EA Sports FC 27 Clubs- und Rush-Guide",
       "subtitle": "Erstelle einen Club, entwickle einen Virtual Pro, steige in Divisionen auf und spiele Rush, Live-Events, Ligen und Playoffs mit Freunden.",
       "intro": "Der Clubs-Fortschritt basiert auf 13 Archetypen, Archetypen-EP, Attributspunkten, Signature-PlayStyles und Spezialisierungen. Spieler können mehreren Clubs beitreten, in zehn Rush-Divisionen antreten und an rotierenden K.-o.-Events mit Sonderregeln und Belohnungen teilnehmen.",
-      "displayType": "kartenliste",
+      "displayType": "card-list",
       "items": [
         {
           "title": "Erstelle einen Club oder tritt einem bei",

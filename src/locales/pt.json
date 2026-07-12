@@ -156,7 +156,7 @@
       "title": "Pré-venda, Edições e Acesso Antecipado do EA Sports FC 27",
       "subtitle": "Compare a linha de edições do FC 27, bônus de pré-venda e opções de acesso antecipado com a estrutura de lançamento das edições Standard, Ultimate e EA Play do FC 26.",
       "intro": "Compare a linha de edições do FC 27, bônus de pré-venda e opções de acesso antecipado. O FC 26 estabeleceu o padrão com as edições Standard e Ultimate, sete dias de acesso antecipado para a Edição Ultimate, um teste de 10 horas do EA Play e acesso ilimitado ao EA Play Pro no PC.",
-      "displayType": "tabela-de-comparação",
+      "displayType": "comparison-table",
       "items": [
         {
           "option": "Edições do EA Sports FC 27",
@@ -258,7 +258,7 @@
       "title": "Guia para Iniciantes do EA Sports FC 27 Ultimate Team",
       "subtitle": "Prepare sua Conta EA, garanta as recompensas de transição do FC 27 e siga um caminho claro por meio de objetivos, montagem de elenco, Rivals, Squad Battles, Evoluções e Champions.",
       "intro": "A melhor preparação começa no FC 26, onde diversas atividades já oferecem recompensas para o FC 27. Quando o FC 27 for lançado, use a mesma Conta EA, conclua os objetivos introdutórios, monte um primeiro elenco equilibrado e comece pelo modo que corresponde ao seu nível de habilidade.",
-      "displayType": "passo a passo",
+      "displayType": "step-by-step",
       "steps": [
         {
           "step": 1,
@@ -315,7 +315,7 @@
       "title": "Notas dos Jogadores do EA Sports FC 27 e Melhores Jogadores",
       "subtitle": "Compare a mais recente referência oficial de notas do EA Sports FC para jogadores de elite, líderes de ritmo, jovens de destaque e líderes em posições importantes.",
       "intro": "O banco de dados oficial de notas do EA Sports FC permite a comparação direta por nota geral, ritmo, finalização, passe, condução, defesa e físico. Use as tags de categoria para encontrar os jogadores com melhor pontuação, os jogadores mais rápidos, jovens de destaque e líderes em posições importantes.",
-      "displayType": "tabela-filtrável",
+      "displayType": "filterable-table",
       "categories": [
         "Todos",
         "Melhores Notas",
@@ -684,7 +684,7 @@
           "matchPlan": "Defenda em duas linhas compactas, recupere a bola pelo centro e acione rapidamente um ponta ou o atacante mais rápido."
         },
         {
-          "id": "formação-523",
+          "id": "formation-523",
           "label": "5-2-3 — Segurança Defensiva",
           "summary": "Um sistema com três zagueiros, alas e três atacantes para proteção extra sem perder a amplitude nos contra-ataques.",
           "bestFor": [
@@ -702,7 +702,7 @@
           "matchPlan": "Mantenha a dupla de meio-campistas compacta, libere apenas um ala de cada vez e ataque rapidamente o espaço por fora dos laterais adversários."
         },
         {
-          "id": "predefinições-de-jogabilidade",
+          "id": "gameplay-presets",
           "label": "Jogabilidade Competitiva vs. Autêntica",
           "summary": "Use a predefinição de jogabilidade que combine com o modo e a sensação de partida que você deseja.",
           "bestFor": [
@@ -718,7 +718,7 @@
           "matchPlan": "Escolha o Competitivo para partidas online e o Autêntico para saves imersivos do Modo Carreira offline."
         },
         {
-          "id": "controles-de-ataque",
+          "id": "attacking-controls",
           "label": "Controles de Ataque Essenciais",
           "summary": "Comandos básicos para passar, finalizar, cruzar, correr e proteger a bola.",
           "bestFor": [
@@ -739,7 +739,7 @@
           "matchPlan": "Jogadores de PC podem remapear todas as ações em Personalizar Controles e usar um controle para ter a experiência completa."
         },
         {
-          "id": "controles-de-defesa",
+          "id": "defending-controls",
           "label": "Controles Essenciais de Defesa e Goleiro",
           "summary": "Comandos básicos para trocar de jogador, cercar, pressionar, desarmar e adiantar o goleiro.",
           "bestFor": [
@@ -759,7 +759,7 @@
           "matchPlan": "Domine as técnicas de cercar e a pressão do segundo jogador antes de depender de divididas em pé."
         },
         {
-          "id": "configuracao-de-controle-pc",
+          "id": "pc-control-setup",
           "label": "Configuração de Controles no PC",
           "summary": "O PC suporta entrada de controle e controles de teclado totalmente remapeáveis.",
           "bestFor": [
@@ -782,7 +782,7 @@
       "title": "Guia de Clubs e Rush do EA Sports FC 27",
       "subtitle": "Crie um Clube, desenvolva um Craque Virtual, suba de divisões e jogue o Rush, Eventos ao Vivo, Ligas e Playoffs com amigos.",
       "intro": "A progressão do Clubs é construída em torno de 13 Arquétipos, XP de Arquétipo, Pontos de Atributo, Estilos de Jogo Característicos e Especializações. Os jogadores podem entrar em vários clubes, competir em dez divisões do Rush e participar de eventos eliminatórios rotativos com regras e recompensas especiais.",
-      "displayType": "lista-de-cards",
+      "displayType": "card-list",
       "items": [
         {
           "title": "Criar ou Entrar em um Clube",

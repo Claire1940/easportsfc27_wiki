@@ -156,7 +156,7 @@
       "title": "Reserva, ediciones y acceso anticipado de EA Sports FC 27",
       "subtitle": "Compara la oferta de ediciones de FC 27, las bonificaciones por reserva y las opciones de acceso anticipado con la estructura de lanzamiento de las ediciones Standard, Ultimate y EA Play de FC 26.",
       "intro": "Compara la oferta de ediciones de FC 27, las bonificaciones por reserva y las opciones de acceso anticipado. FC 26 estableció el referente con las ediciones Standard y Ultimate, siete días de acceso anticipado para la Ultimate Edition, una prueba de 10 horas de EA Play y acceso ilimitado a EA Play Pro en PC.",
-      "displayType": "tabla-de-comparación",
+      "displayType": "comparison-table",
       "items": [
         {
           "option": "Ediciones de EA Sports FC 27",
@@ -258,7 +258,7 @@
       "title": "Guía para principiantes de EA Sports FC 27 Ultimate Team",
       "subtitle": "Prepara tu EA Account, asegura las recompensas de transferencia de FC 27 y sigue una ruta clara a través de objetivos, creación de plantillas, Rivals, Squad Battles, Evolutions y Champions.",
       "intro": "La mejor preparación comienza en FC 26, donde varias actividades ya otorgan recompensas para FC 27. Cuando FC 27 se lance, usa la misma EA Account, completa los objetivos introductorios, crea una primera plantilla equilibrada y comienza con el modo que se adapte a tu nivel de habilidad.",
-      "displayType": "paso a paso",
+      "displayType": "step-by-step",
       "steps": [
         {
           "step": 1,
@@ -315,7 +315,7 @@
       "title": "Valoraciones de jugadores y mejores jugadores de EA Sports FC 27",
       "subtitle": "Compara el último referente oficial de valoraciones de EA Sports FC para jugadores de élite, líderes en ritmo, jóvenes destacados y líderes en posiciones clave.",
       "intro": "La base de datos oficial de valoraciones de EA Sports FC permite la comparación directa por valoración general, ritmo, tiro, pase, regate, defensa y físico. Usa las etiquetas de categoría para encontrar a los jugadores mejor valorados, a los más rápidos, a los jóvenes destacados y a los líderes en posiciones clave.",
-      "displayType": "tabla filtrable",
+      "displayType": "filterable-table",
       "categories": [
         "Todos",
         "Mejor valorados",
@@ -508,7 +508,7 @@
       "title": "Modo Carrera y jóvenes promesas de EA Sports FC 27",
       "subtitle": "Crea una partida a largo plazo con los sistemas de Carrera de mánager, arquetipos de Carrera de jugador y una lista de jóvenes jugadores con gran valoración.",
       "intro": "Empieza con Descargar más recientes para cargar los traspasos y valoraciones actuales, y luego elige Carrera de mánager o Carrera de jugador. Esta guía cubre escenarios en vivo, movimiento de mánagers, simulación de ligas más profunda, ojeo, desarrollo de jugadores y jóvenes jugadores a los que vale la pena seguir en la base de datos de valoraciones oficial.",
-      "displayType": "lista de cartas",
+      "displayType": "card-list",
       "features": [
         {
           "title": "Mánager en vivo",
@@ -684,7 +684,7 @@
           "matchPlan": "Defiende en dos líneas compactas, recupera el balón en el centro y lanza rápido a un extremo o al delantero más rápido."
         },
         {
-          "id": "formación-523",
+          "id": "formation-523",
           "label": "5-2-3 — Seguridad defensiva",
           "summary": "Un sistema de tres centrales con carrileros y tres delanteros para una protección adicional sin perder amplitud en el contragolpe.",
           "bestFor": [
@@ -702,7 +702,7 @@
           "matchPlan": "Mantén compacta a la pareja de centrocampistas, da salida a un solo carrilero a la vez y ataca rápidamente el espacio por fuera de los laterales rivales."
         },
         {
-          "id": "ajustes-de-jugabilidad",
+          "id": "gameplay-presets",
           "label": "Jugabilidad competitiva vs. auténtica",
           "summary": "Usa el ajuste preestablecido de jugabilidad que coincida con el modo y la sensación de partido que buscas.",
           "bestFor": [
@@ -718,7 +718,7 @@
           "matchPlan": "Elige Competitivo para el juego online y Auténtico para partidas guardadas inmersivas en el modo Carrera offline."
         },
         {
-          "id": "controles-de-ataque",
+          "id": "attacking-controls",
           "label": "Controles de ataque esenciales",
           "summary": "Controles básicos para pasar, tirar, centrar, esprintar y proteger el balón.",
           "bestFor": [
@@ -739,7 +739,7 @@
           "matchPlan": "Los jugadores de PC pueden reasignar cada acción en Personalizar controles y usar un mando para disfrutar de la experiencia completa."
         },
         {
-          "id": "controles-defensivos",
+          "id": "defending-controls",
           "label": "Controles esenciales de defensa y portero",
           "summary": "Comandos básicos para cambiar de jugador, bregar, presionar, entrar y hacer salir al portero.",
           "bestFor": [
@@ -759,7 +759,7 @@
           "matchPlan": "Domina la brega y la presión del segundo jugador antes de confiar en las entradas normales."
         },
         {
-          "id": "configuracion-controles-pc",
+          "id": "pc-control-setup",
           "label": "Configuración de controles en PC",
           "summary": "PC es compatible con mandos y controles de teclado totalmente reasignables.",
           "bestFor": [
@@ -782,7 +782,7 @@
       "title": "Guía de Clubs y Rush de EA Sports FC 27",
       "subtitle": "Crea un Club, desarrolla un Pro virtual, asciende de división y juega a Rush, Eventos en directo, Ligas y Eliminatorias con amigos.",
       "intro": "El progreso de Clubs se basa en 13 arquetipos, XP de arquetipo, puntos de atributo, Estilos de juego característicos y especializaciones. Los jugadores pueden unirse a varios clubes, competir en diez divisiones de Rush y participar en eventos de eliminación rotativos con reglas y recompensas especiales.",
-      "displayType": "lista-tarjetas",
+      "displayType": "card-list",
       "items": [
         {
           "title": "Crear o unirse a un Club",
