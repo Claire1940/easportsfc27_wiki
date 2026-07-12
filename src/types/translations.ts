@@ -151,8 +151,8 @@ export interface Translations {
     badge: string
     title: string
     description: string
-    getFreeCodesCTA: string
-    playOnRobloxCTA: string
+    latestUpdatesCTA: string
+    visitGameCTA: string
     stats: Record<string, Stat>
   }
   gameFeature: {

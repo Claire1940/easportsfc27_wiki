@@ -153,8 +153,8 @@ export const TranslationsSchema = z.object({
     badge: z.string(),
     title: z.string(),
     description: z.string(),
-    getFreeCodesCTA: z.string(),
-    playOnRobloxCTA: z.string(),
+    latestUpdatesCTA: z.string(),
+    visitGameCTA: z.string(),
     stats: z.record(z.string(), StatSchema)
   }),
   gameFeature: z.object({

@@ -1,1 +1,1099 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "EA Sports FC 27 - Fecha de lanzamiento, valoraciones y Ultimate Team",
+      "description": "Sigue las noticias de lanzamiento, tráileres, gameplay, Ultimate Team, Modo Carrera, valoraciones de jugadores, plataformas, ediciones y actualizaciones oficiales de EA Sports FC 27 en un solo lugar.",
+      "keywords": "EA Sports FC 27, FC 27, fecha de lanzamiento, valoraciones, Ultimate Team, Modo Carrera, gameplay",
+      "ogTitle": "EA Sports FC 27 - Fecha de lanzamiento, valoraciones y Ultimate Team",
+      "ogDescription": "Sigue las noticias de lanzamiento, tráileres, gameplay, Ultimate Team, Modo Carrera, valoraciones de jugadores, plataformas, ediciones y actualizaciones oficiales de EA Sports FC 27 en un solo lugar.",
+      "twitterTitle": "EA Sports FC 27 - Fecha de lanzamiento, valoraciones y Ultimate Team",
+      "twitterDescription": "Sigue las noticias de lanzamiento, tráileres, gameplay, Ultimate Team, valoraciones de jugadores y plataformas de EA Sports FC 27 en un solo lugar."
+    }
+  },
+  "nav": {
+    "release": "Lanzamiento",
+    "editions": "Ediciones",
+    "platforms": "Plataformas",
+    "career": "Carrera",
+    "features": "Características",
+    "teams": "Equipos",
+    "ratings": "Valoraciones",
+    "guide": "Guía"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Visita EA SPORTS FC",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que buscas no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "Próximo simulador de fútbol",
+    "title": "Wiki de EA Sports FC 27",
+    "description": "Sigue las noticias de lanzamiento, tráileres, cambios en el gameplay, Ultimate Team, Modo Carrera, Clubs, valoraciones, ediciones y actualizaciones de plataformas de EA Sports FC 27 en un solo lugar.",
+    "latestUpdatesCTA": "Recibe las últimas actualizaciones",
+    "visitGameCTA": "Visita EA SPORTS FC",
+    "stats": {
+      "stat1": {
+        "value": "Por anunciar",
+        "label": "Fecha de lanzamiento"
+      },
+      "stat2": {
+        "value": "Confirmado",
+        "label": "Referencia de EA"
+      },
+      "stat3": {
+        "value": "Por anunciar",
+        "label": "Tráiler oficial"
+      },
+      "stat4": {
+        "value": "Principios de octubre",
+        "label": "Recompensas de transferencia"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jugabilidad de EA Sports FC 27",
+    "description": "Sigue la jugabilidad de EA Sports FC 27, Ultimate Team, Career Mode, Clubs, valoraciones de jugadores y actualizaciones de plataformas en PlayStation, Xbox, Nintendo Switch y PC."
+  },
+  "tools": {
+    "title": "EA Sports FC 27",
+    "titleHighlight": "Guías",
+    "subtitle": "Todo lo que necesitas para seguir EA Sports FC 27: lanzamiento, ediciones, plataformas, Ultimate Team, valoraciones, Career Mode, tácticas y Clubs.",
+    "cards": [
+      {
+        "icon": "CalendarClock",
+        "title": "Fecha de lanzamiento y noticias",
+        "description": "Revelación, tráiler, calendario de lanzamiento, estrellas de portada y anuncios"
+      },
+      {
+        "icon": "ShoppingBag",
+        "title": "Reserva y ediciones",
+        "description": "Ediciones Standard vs Ultimate, precios, bonificaciones y acceso anticipado"
+      },
+      {
+        "icon": "MonitorSmartphone",
+        "title": "Plataformas y Crossplay",
+        "description": "Especificaciones de PlayStation, Xbox, Nintendo Switch, PC y grupos de crossplay"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Ultimate Team",
+        "description": "Plantillas, objetivos, Rivals, Champions, Evolutions y mercado"
+      },
+      {
+        "icon": "Award",
+        "title": "Valoraciones de jugadores",
+        "description": "Mejor valorados, más rápidos, mejores jugadores jóvenes y líderes por posición"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Career Mode",
+        "description": "Carrera de mánager y de jugador, transferencias, ojeo y wonderkids"
+      },
+      {
+        "icon": "ClipboardList",
+        "title": "Formaciones y controles",
+        "description": "Tácticas, ajustes preestablecidos de jugabilidad y controles de PlayStation, Xbox y PC"
+      },
+      {
+        "icon": "Users",
+        "title": "Clubs & Rush",
+        "description": "Pro virtual, arquetipos, Rush, ligas, playoffs y eventos"
+      }
+    ]
+  },
+  "modules": {
+    "fcReleaseDate": {
+      "eyebrow": "Seguimiento de lanzamientos",
+      "title": "Fecha de lanzamiento y últimas noticias de EA Sports FC 27",
+      "subtitle": "Sigue la revelación de FC 27, el calendario de lanzamiento, el tráiler, las estrellas de portada y los anuncios oficiales, además de las primeras actividades de transferencia de FC 27 que ya están disponibles en FC 26.",
+      "intro": "EA ha comenzado a mencionar EA Sports FC 27 a través de las recompensas de transferencia oficiales de FC 26. Sigue aquí la revelación, el tráiler, los atletas de portada y la fecha de lanzamiento a medida que EA los anuncie. Los títulos recientes de EA Sports FC se han lanzado el último viernes de septiembre.",
+      "displayType": "timeline",
+      "items": [
+        {
+          "date": "Junio de 2026",
+          "category": "Actualización oficial de FC 27",
+          "title": "Introducción de las recompensas de transferencia de FC 27",
+          "description": "EA confirmó que ciertos objetivos completados en FC 26 otorgan recompensas en FC 27. Usa la misma Cuenta EA en ambos juegos e inicia sesión en FC 27 para recibir todas las recompensas correspondientes."
+        },
+        {
+          "date": "Junio de 2026",
+          "category": "Evento de The World's Game",
+          "title": "Dos actividades de FC 26 otorgan recompensas para FC 27",
+          "description": "Juega un partido de la fase de grupos en el modo The World's Game y completa todas las regiones del grupo de objetivos Journey of Nations de Ultimate Team. Completa ambas actividades antes de que venzan los plazos del evento."
+        },
+        {
+          "date": "8 de julio de 2026",
+          "category": "Ultimate Team",
+          "title": "La Temporada 9 añade otra recompensa de transferencia para FC 27",
+          "description": "La Temporada 9 de FC 26 World Tour incluye una recompensa de transferencia para FC 27 en el nivel 30. Las recompensas de transferencia de la Temporada 9 estarán disponibles en FC 27 a principios de octubre y deben canjearse con la misma Cuenta EA antes de la fecha límite anunciada para principios de noviembre."
+        },
+        {
+          "date": "12 de julio de 2026",
+          "category": "Seguimiento de la presentación",
+          "title": "Presentación y estrellas de portada de FC 27",
+          "description": "El sitio web oficial de FC de EA y las páginas de noticias destacan actualmente FC 26. Sigue este rastreador para ver el tráiler de presentación de FC 27, los atletas de portada, las ediciones, las plataformas y la fecha de lanzamiento mundial a medida que se publiquen."
+        },
+        {
+          "date": "Septiembre",
+          "category": "Patrón de lanzamiento",
+          "title": "Los juegos recientes se lanzaron el último viernes de septiembre",
+          "description": "EA Sports FC 24 se lanzó el 29 de septiembre de 2023, FC 25 se lanzó el 27 de septiembre de 2024 y FC 26 se lanzó en todo el mundo el 26 de septiembre de 2025."
+        }
+      ]
+    },
+    "fcPreOrderEditions": {
+      "eyebrow": "Comparación de ediciones",
+      "title": "Reserva, ediciones y acceso anticipado de EA Sports FC 27",
+      "subtitle": "Compara la oferta de ediciones de FC 27, las bonificaciones por reserva y las opciones de acceso anticipado con la estructura de lanzamiento de las ediciones Standard, Ultimate y EA Play de FC 26.",
+      "intro": "Compara la oferta de ediciones de FC 27, las bonificaciones por reserva y las opciones de acceso anticipado. FC 26 estableció el referente con las ediciones Standard y Ultimate, siete días de acceso anticipado para la Ultimate Edition, una prueba de 10 horas de EA Play y acceso ilimitado a EA Play Pro en PC.",
+      "displayType": "tabla-de-comparación",
+      "items": [
+        {
+          "option": "Ediciones de EA Sports FC 27",
+          "availability": "Por anunciar",
+          "price": "Por anunciar",
+          "launchAccess": "Fechas de lanzamiento y acceso anticipado por confirmar",
+          "keyBenefits": "Las bonificaciones por reserva, los FC Points, el contenido del Pase Premium y las recompensas específicas de cada edición se detallarán cuando las ediciones estén disponibles"
+        },
+        {
+          "option": "Referente de la Standard Edition de FC 26",
+          "availability": "Lanzado el 26 de septiembre de 2025",
+          "price": "Precio de lanzamiento de 69,99 $ USD",
+          "launchAccess": "Lanzamiento estándar mundial",
+          "keyBenefits": "Juego completo, un consumible de desbloqueo de arquetipo, dos consumibles de doble PE de arquetipo para 10 partidos, tres ICONOS de Carrera, un entrenador de cinco estrellas, un ojeador de juveniles de cinco estrellas y contenido de Desafío en vivo de mánager"
+        },
+        {
+          "option": "Referente de la Ultimate Edition de FC 26",
+          "availability": "Lanzado el 19 de septiembre de 2025",
+          "price": "Precio de lanzamiento de 99,99 $ USD",
+          "launchAccess": "Hasta siete días antes que la Standard Edition",
+          "keyBenefits": "Hasta 6,000 FC Points durante dos meses, Pase Premium de la Temporada 1, un espacio adicional de Evolución de Ultimate Team, un artículo de ICONO de FC 26 intransferible y el contenido de bonificación de la Standard Edition"
+        },
+        {
+          "option": "Ultimate Edition de FC 26 en Nintendo Switch",
+          "availability": "Lanzado el 19 de septiembre de 2025",
+          "price": "Precios de las tiendas regionales",
+          "launchAccess": "Hasta siete días antes que la Standard Edition",
+          "keyBenefits": "Hasta 4,500 FC Points durante dos meses en lugar de 6,000; el contenido de reserva de FC 25 se excluyó de las versiones de Nintendo Switch y Nintendo Switch 2"
+        },
+        {
+          "option": "EA Play",
+          "availability": "Beneficio de membresía activa",
+          "price": "El precio de la suscripción varía según la plataforma y la región",
+          "launchAccess": "Pruebas de lanzamientos seleccionados de hasta 10 horas",
+          "keyBenefits": "Diez por ciento de descuento en compras de juegos digitales de EA, FC Points y contenido descargable, además de recompensas rotativas para miembros"
+        },
+        {
+          "option": "EA Play Pro en PC",
+          "availability": "Membresía de PC",
+          "price": "El precio de la suscripción varía según la región",
+          "launchAccess": "El acceso a FC 26 Ultimate Edition comenzó el 19 de septiembre de 2025",
+          "keyBenefits": "Acceso ilimitado mientras la membresía permanezca activa, contenido de la Ultimate Edition y beneficios para miembros de EA Play Pro"
+        }
+      ]
+    },
+    "fcPlatformsCrossplay": {
+      "eyebrow": "Guía de plataformas",
+      "title": "Plataformas de EA Sports FC 27, Crossplay y requisitos para PC",
+      "subtitle": "Revisa la lista de plataformas de FC 27, los grupos oficiales de crossplay de EA Sports FC y los requisitos de hardware para PC de FC 26 utilizados como el último referente.",
+      "intro": "EA Sports FC conecta a PlayStation 5, Xbox Series X|S y PC en un grupo de crossplay, mantiene a PlayStation 4 y Xbox One en un grupo separado y ejecuta los sistemas de Nintendo Switch de forma independiente. Las especificaciones de PC de FC 26 a continuación sirven como el último referente de hardware antes del anuncio de FC 27.",
+      "displayType": "tabla",
+      "items": [
+        {
+          "category": "Plataformas de EA Sports FC 27",
+          "platforms": "Por anunciarse",
+          "crossplay": "Por anunciarse",
+          "notes": "Las páginas oficiales del producto y de la tienda de FC 27 mostrarán las plataformas compatibles y los detalles de crossplay en el lanzamiento"
+        },
+        {
+          "category": "Grupo de crossplay de generación actual",
+          "platforms": "PlayStation 5, Xbox Series X|S y PC",
+          "crossplay": "Compatible dentro de este grupo",
+          "notes": "Los jugadores pueden emparejarse dentro de este grupo y no pueden emparejarse con la generación de PlayStation 4 y Xbox One"
+        },
+        {
+          "category": "Grupo de crossplay de generación anterior",
+          "platforms": "PlayStation 4 y Xbox One",
+          "crossplay": "Compatible dentro de este grupo",
+          "notes": "Este grupo es independiente de PlayStation 5, Xbox Series X|S y PC"
+        },
+        {
+          "category": "Nintendo Switch y Nintendo Switch 2",
+          "platforms": "Familia Nintendo Switch",
+          "crossplay": "Sin crossplay con PC, PlayStation o Xbox",
+          "notes": "Los jugadores de Switch usan el multijugador online y local específico de Nintendo. El progreso cruzado de Ultimate Team es compatible entre Nintendo Switch y Nintendo Switch 2, pero no entre los sistemas de Nintendo y otras plataformas"
+        },
+        {
+          "category": "Referente mínimo para PC de FC 26",
+          "platforms": "Windows 10 o Windows 11 de 64 bits",
+          "crossplay": "Grupo de generación actual",
+          "notes": "AMD Ryzen 5 1600 o Intel Core i5-6600K, 8 GB de RAM, AMD RX 570 o Nvidia GTX 1050 Ti, DirectX 12 y 100 GB de almacenamiento disponible"
+        },
+        {
+          "category": "Referente recomendado para PC de FC 26",
+          "platforms": "Windows 10 o Windows 11 de 64 bits",
+          "crossplay": "Grupo de generación actual",
+          "notes": "AMD Ryzen 7 2700X o Intel Core i7-6700, 12 GB de RAM, AMD RX 5600 XT o Nvidia GTX 1660, DirectX 12 y 100 GB de almacenamiento disponible"
+        },
+        {
+          "category": "Cuenta de PC y requisitos online",
+          "platforms": "EA app, Steam o Epic Games Store",
+          "crossplay": "Se requiere una EA Account",
+          "notes": "Se requieren internet de banda ancha, una EA Account, software de cliente de EA y EA Javelin Anticheat en PC"
+        }
+      ]
+    },
+    "fcUltimateTeam": {
+      "eyebrow": "Guía de Ultimate Team",
+      "title": "Guía para principiantes de EA Sports FC 27 Ultimate Team",
+      "subtitle": "Prepara tu EA Account, asegura las recompensas de transferencia de FC 27 y sigue una ruta clara a través de objetivos, creación de plantillas, Rivals, Squad Battles, Evolutions y Champions.",
+      "intro": "La mejor preparación comienza en FC 26, donde varias actividades ya otorgan recompensas para FC 27. Cuando FC 27 se lance, usa la misma EA Account, completa los objetivos introductorios, crea una primera plantilla equilibrada y comienza con el modo que se adapte a tu nivel de habilidad.",
+      "displayType": "paso a paso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Gana las recompensas de transferencia de FC 27 en FC 26",
+          "description": "Juega un partido de la fase de grupos en el modo The World's Game y completa cada región en el objetivo de Ultimate Team Journey of Nations. La Temporada 9 de World Tour también otorga una recompensa de transferencia de FC 27 en el nivel 30.",
+          "result": "Las recompensas elegibles estarán disponibles tras el lanzamiento de FC 27"
+        },
+        {
+          "step": 2,
+          "title": "Mantén la misma EA Account",
+          "description": "Usa la EA Account con la que ganaste tus recompensas de FC 26 al crear o abrir tu club de Ultimate Team en FC 27. Las recompensas de transferencia están vinculadas a la cuenta utilizada para completar los objetivos originales.",
+          "result": "Tus recompensas elegibles de FC 27 se entregarán al club de Ultimate Team correcto"
+        },
+        {
+          "step": 3,
+          "title": "Configura la Web App y la Companion App",
+          "description": "La Web App para navegadores y la Companion App para iOS o Android te permiten gestionar plantillas, completar Squad Building Challenges, reclamar recompensas y usar el mercado de transferencias fuera de tu consola o PC. La Web App de FC 26 se lanzó el 17 de septiembre de 2025 y la Companion App le siguió el 18 de septiembre.",
+          "result": "Puedes organizar tu club antes y entre sesiones de juego"
+        },
+        {
+          "step": 4,
+          "title": "Completa Fundamentos y desbloquea el mercado de transferencias",
+          "description": "Termina los objetivos introductorios de Fundamentos antes de gastar mucho en jugadores. En FC 26, las cuentas nuevas completaron el grupo de objetivos On Your Way antes de que se abriera el acceso total al mercado de transferencias tras 24 horas en consolas o 48 horas en PC.",
+          "result": "Recibes recompensas de inicio y obtienes acceso para comprar, pujar y buscar en el mercado"
+        },
+        {
+          "step": 5,
+          "title": "Crea una primera plantilla equilibrada",
+          "description": "Cubre cada posición con jugadores que se ajusten a sus roles naturales y proporcionen enlaces de química útiles. Guarda las primeras monedas para mejoras importantes en lugar de reemplazar a todo el equipo después de cada sobre de recompensa.",
+          "result": "Un once inicial estable con suficientes suplentes para los objetivos y los modos de juego rotativos"
+        },
+        {
+          "step": 6,
+          "title": "Usa los objetivos y Evolutions para las mejoras",
+          "description": "Revisa los objetivos diarios, semanales, de temporada y de eventos antes de jugar partidos para que cada encuentro contribuya a varias recompensas. Evolutions mejora los artículos de jugador elegibles a través de tareas de juego, y FC 26 introdujo las Evolutions repetibles y las Evolutions de portero.",
+          "result": "Mejoras regulares de la plantilla sin depender únicamente de las compras en el mercado de transferencias"
+        },
+        {
+          "step": 7,
+          "title": "Comienza con Squad Battles o Division Rivals",
+          "description": "Squad Battles ofrece partidos sin conexión contra equipos controlados por la CPU y permitió hasta 18 partidos con puntuación semanal en FC 26. Rivals comienza en la División 10, recorre las divisiones de la 10 a la 1 más la División Élite, y otorga recompensas semanales basadas en el progreso.",
+          "result": "Elige Squad Battles para un inicio controlado o Rivals para la competición online"
+        },
+        {
+          "step": 8,
+          "title": "Pasa a Champions cuando tu plantilla esté lista",
+          "description": "FC 26 eliminó los Champions Playoffs. Los jugadores obtenían Champions Qualification Points desde la División 7 y se clasificaban automáticamente desde la División 6 tras reunir suficientes puntos, mientras que Challengers ofrecía una competición independiente para los jugadores de la División 7 e inferiores.",
+          "result": "Una ruta clara desde las divisiones de principiantes hasta la competición de fin de semana de alto nivel"
+        }
+      ]
+    },
+    "fcPlayerRatings": {
+      "eyebrow": "Base de datos de jugadores",
+      "title": "Valoraciones de jugadores y mejores jugadores de EA Sports FC 27",
+      "subtitle": "Compara el último referente oficial de valoraciones de EA Sports FC para jugadores de élite, líderes en ritmo, jóvenes destacados y líderes en posiciones clave.",
+      "intro": "La base de datos oficial de valoraciones de EA Sports FC permite la comparación directa por valoración general, ritmo, tiro, pase, regate, defensa y físico. Usa las etiquetas de categoría para encontrar a los jugadores mejor valorados, a los más rápidos, a los jóvenes destacados y a los líderes en posiciones clave.",
+      "displayType": "tabla filtrable",
+      "categories": [
+        "Todos",
+        "Mejor valorados",
+        "Más rápidos",
+        "Mejor tirador",
+        "Mejor regateador",
+        "Mejor defensa",
+        "Jugador joven"
+      ],
+      "players": [
+        {
+          "player": "Mohamed Salah",
+          "team": "Liverpool",
+          "position": "MD",
+          "categories": [
+            "Mejor valorado",
+            "Regateador de élite"
+          ],
+          "overall": 91,
+          "pace": 89,
+          "shooting": 88,
+          "passing": 86,
+          "dribbling": 90,
+          "defending": 45,
+          "physical": 76
+        },
+        {
+          "player": "Alexia Putellas",
+          "team": "FC Barcelona",
+          "position": "MC",
+          "categories": [
+            "Mejor valorado",
+            "Pasador de élite"
+          ],
+          "overall": 91,
+          "pace": 82,
+          "shooting": 89,
+          "passing": 90,
+          "dribbling": 91,
+          "defending": 72,
+          "physical": 80
+        },
+        {
+          "player": "Kylian Mbappé",
+          "team": "Real Madrid",
+          "position": "DC",
+          "categories": [
+            "Mejor valorado",
+            "El más rápido"
+          ],
+          "overall": 91,
+          "pace": 97,
+          "shooting": 90,
+          "passing": 81,
+          "dribbling": 92,
+          "defending": 37,
+          "physical": 76
+        },
+        {
+          "player": "Aitana Bonmatí",
+          "team": "FC Barcelona",
+          "position": "MC",
+          "categories": [
+            "Mejor valorado",
+            "Regateador de élite"
+          ],
+          "overall": 91,
+          "pace": 85,
+          "shooting": 87,
+          "passing": 86,
+          "dribbling": 91,
+          "defending": 77,
+          "physical": 75
+        },
+        {
+          "player": "Ousmane Dembélé",
+          "team": "Paris SG",
+          "position": "DC",
+          "categories": [
+            "Mejor valorado",
+            "Mejor regateador"
+          ],
+          "overall": 90,
+          "pace": 91,
+          "shooting": 88,
+          "passing": 83,
+          "dribbling": 93,
+          "defending": 50,
+          "physical": 69
+        },
+        {
+          "player": "Rodri",
+          "team": "Manchester City",
+          "position": "MCD",
+          "categories": [
+            "Mejor valorado",
+            "Pasador de élite"
+          ],
+          "overall": 90,
+          "pace": 65,
+          "shooting": 80,
+          "passing": 86,
+          "dribbling": 84,
+          "defending": 86,
+          "physical": 85
+        },
+        {
+          "player": "Virgil van Dijk",
+          "team": "Liverpool",
+          "position": "DFC",
+          "categories": [
+            "Mejor valorado",
+            "Mejor defensa"
+          ],
+          "overall": 90,
+          "pace": 73,
+          "shooting": 60,
+          "passing": 72,
+          "dribbling": 72,
+          "defending": 90,
+          "physical": 87
+        },
+        {
+          "player": "Erling Haaland",
+          "team": "Manchester City",
+          "position": "DC",
+          "categories": [
+            "Mejor valorados",
+            "Mejor tirador"
+          ],
+          "overall": 90,
+          "pace": 86,
+          "shooting": 91,
+          "passing": 70,
+          "dribbling": 80,
+          "defending": 45,
+          "physical": 88
+        },
+        {
+          "player": "Lamine Yamal",
+          "team": "FC Barcelona",
+          "position": "MD",
+          "categories": [
+            "Jugador joven",
+            "Regateador de élite"
+          ],
+          "overall": 89,
+          "pace": 85,
+          "shooting": 81,
+          "passing": 86,
+          "dribbling": 90,
+          "defending": 23,
+          "physical": 53
+        },
+        {
+          "player": "Karim Adeyemi",
+          "team": "Borussia Dortmund",
+          "position": "MD",
+          "categories": [
+            "Más rápido"
+          ],
+          "overall": 81,
+          "pace": 96,
+          "shooting": 76,
+          "passing": 72,
+          "dribbling": 82,
+          "defending": 36,
+          "physical": 69
+        },
+        {
+          "player": "Pau Cubarsí",
+          "team": "FC Barcelona",
+          "position": "DFC",
+          "categories": [
+            "Jugador joven",
+            "Mejor defensor"
+          ],
+          "overall": 82,
+          "pace": 70,
+          "shooting": 42,
+          "passing": 66,
+          "dribbling": 77,
+          "defending": 84,
+          "physical": 76
+        }
+      ]
+    },
+    "fcCareerMode": {
+      "eyebrow": "Modo Carrera",
+      "title": "Modo Carrera y jóvenes promesas de EA Sports FC 27",
+      "subtitle": "Crea una partida a largo plazo con los sistemas de Carrera de mánager, arquetipos de Carrera de jugador y una lista de jóvenes jugadores con gran valoración.",
+      "intro": "Empieza con Descargar más recientes para cargar los traspasos y valoraciones actuales, y luego elige Carrera de mánager o Carrera de jugador. Esta guía cubre escenarios en vivo, movimiento de mánagers, simulación de ligas más profunda, ojeo, desarrollo de jugadores y jóvenes jugadores a los que vale la pena seguir en la base de datos de valoraciones oficial.",
+      "displayType": "lista de cartas",
+      "features": [
+        {
+          "title": "Mánager en vivo",
+          "mode": "Carrera de mánager",
+          "summary": "Un centro neurálgico para partidas de Carrera completa, Puntos de inicio en vivo y desafíos rotativos basados en historias del fútbol real.",
+          "details": [
+            "Los desafíos se actualizan en ciclos semanales y mensuales.",
+            "Los escenarios pueden usar objetivos especiales, reglas de plantilla y condiciones iniciales.",
+            "Completar los desafíos puede otorgar equipaciones de Carrera y progreso en el Pase de temporada."
+          ]
+        },
+        {
+          "title": "Mercado de mánagers",
+          "mode": "Carrera de mánager",
+          "summary": "Los mánagers pueden cambiar de club en lugar de permanecer fijos durante toda la partida.",
+          "details": [
+            "Los mánagers rivales pueden ser fichados, destituidos o buscar nuevos trabajos.",
+            "El movimiento de los mánagers crea identidades tácticas cambiantes en toda la liga.",
+            "Tu propia carrera puede abrir nuevas oportunidades de trabajo a medida que cambian tus resultados y reputación."
+          ]
+        },
+        {
+          "title": "Simulación y ojeo más profundos",
+          "mode": "Carrera de mánager",
+          "summary": "Simula una mayor parte del mundo del fútbol y usa datos de rendimiento más amplios al ojear objetivos de transferencia.",
+          "details": [
+            "Selecciona hasta cinco ligas adicionales para simular junto con tu liga principal.",
+            "Las ligas seleccionadas conservan datos más profundos de jugadores y competiciones.",
+            "Usa la posición, la edad, los atributos y el rendimiento reciente para filtrar los objetivos de transferencia."
+          ]
+        },
+        {
+          "title": "Jugabilidad auténtica",
+          "mode": "Carrera de mánager y de jugador",
+          "summary": "Un ajuste preestablecido de jugabilidad centrado en la Carrera, basado en un ritmo, posicionamiento, variedad de pases y comportamiento del balón realistas.",
+          "details": [
+            "La Jugabilidad auténtica es el ajuste preestablecido de Carrera por defecto.",
+            "Los controles deslizantes personalizados permiten ajustar la asistencia, el error, la fatiga y el comportamiento defensivo.",
+            "La Jugabilidad competitiva proporciona una sensación de partido más rápida y con mayor capacidad de respuesta."
+          ]
+        },
+        {
+          "title": "Eventos inesperados",
+          "mode": "Carrera de mánager",
+          "summary": "Los eventos dinámicos fuera del campo añaden decisiones de gestión de la plantilla e historias cambiantes durante la temporada.",
+          "details": [
+            "Los eventos pueden afectar a la disponibilidad de los jugadores, la moral y la planificación.",
+            "El sistema crea situaciones diferentes en cada partida guardada.",
+            "Los mánagers responden mediante la rotación de la plantilla y la planificación a corto plazo."
+          ]
+        },
+        {
+          "title": "Arquetipos de Carrera de jugador",
+          "mode": "Carrera de jugador",
+          "summary": "Elige entre 13 arquetipos distintos inspirados en los grandes del fútbol y desarrolla a un jugador con una identidad clara en el campo.",
+          "details": [
+            "Cada arquetipo tiene sus propias fortalezas, debilidades y ruta de progresión.",
+            "Las especializaciones añaden roles más específicos y ventajas de jugabilidad.",
+            "Los ejercicios de entrenamiento influyen en las ganancias de XP en los partidos para las acciones vinculadas a tu estilo elegido."
+          ]
+        }
+      ],
+      "wonderkids": [
+        {
+          "player": "Lamine Yamal",
+          "team": "FC Barcelona",
+          "age": 18,
+          "position": "MD",
+          "overall": 89,
+          "profile": "Joven creador de élite con 90 de regate, 86 de pase y 85 de ritmo."
+        },
+        {
+          "player": "Pau Cubarsí",
+          "team": "FC Barcelona",
+          "age": 19,
+          "position": "DFC",
+          "overall": 82,
+          "profile": "Joven defensa central con salida de balón, con 84 de defensa, 86 de pase largo y 85 de salto."
+        },
+        {
+          "player": "Estêvão",
+          "team": "Chelsea",
+          "age": 19,
+          "position": "MD",
+          "overall": 78,
+          "profile": "Centrocampista derecho zurdo, ideal para el desarrollo por banda y roles de ataque creativos."
+        },
+        {
+          "player": "Endrick",
+          "team": "Real Madrid",
+          "age": 19,
+          "position": "DC",
+          "overall": 77,
+          "profile": "Joven delantero explosivo con 87 de ritmo, 78 de regate y 84 de salto."
+        },
+        {
+          "player": "Warren Zaïre-Emery",
+          "team": "Paris SG",
+          "age": 20,
+          "position": "MC",
+          "overall": 80,
+          "profile": "Joven centrocampista central ideal para un rol de todoterreno a largo plazo o centrado en la posesión."
+        },
+        {
+          "player": "Arda Güler",
+          "team": "Real Madrid",
+          "age": 21,
+          "position": "MD",
+          "overall": 81,
+          "profile": "Centrocampista creativo zurdo con 83 de pase, 83 de regate y 81 de tiros lejanos."
+        }
+      ]
+    },
+    "fcFormationsControls": {
+      "eyebrow": "Guía de juego",
+      "title": "Las mejores formaciones, tácticas y controles de EA Sports FC 27",
+      "subtitle": "Elige una formación práctica para la posesión, el contraataque, la presión o el juego defensivo, y luego aprende los controles esenciales de PlayStation, Xbox y PC.",
+      "intro": "Empieza con una formación que se adapte a tu plantilla en lugar de forzar a todos los equipos a usar la misma configuración. El juego competitivo favorece la capacidad de respuesta y el control directo, mientras que el juego auténtico utiliza un ritmo más realista para los modos offline como Carrera.",
+      "displayType": "acordeón",
+      "items": [
+        {
+          "id": "formation-4231-wide",
+          "label": "4-2-3-1 abierta — Control equilibrado",
+          "summary": "Una formación equilibrada y segura con dos pivotes, tres mediapuntas y un delantero.",
+          "bestFor": [
+            "Juego equilibrado",
+            "Proteger el centro",
+            "Crear juego a través del número 10"
+          ],
+          "roles": [
+            "Un MCD defensivo que se mantiene en el centro",
+            "Un MCD móvil que apoya la progresión",
+            "Centrocampistas de banda que repliegan y conducen el balón",
+            "Un MCO que recibe entre el centro del campo y la defensa",
+            "Un delantero que puede asociarse o atacar el área"
+          ],
+          "matchPlan": "Combina en corto a través del doble pivote, abre el juego a las bandas cuando el centro esté congestionado y mantén al menos a un MCD por detrás del balón."
+        },
+        {
+          "id": "formation-433-holding",
+          "label": "4-3-3 de contención — Posesión y amplitud",
+          "summary": "Una estructura ideal para la posesión con un MCD defensivo, dos centrocampistas centrales y amplitud natural por parte de ambos extremos.",
+          "bestFor": [
+            "Posesión",
+            "Presión alta",
+            "Superioridades en banda"
+          ],
+          "roles": [
+            "Un MCD defensivo que protege a los centrales",
+            "Un MC creativo y un MC equilibrado",
+            "Extremos que estiran la línea defensiva",
+            "Laterales que doblan solo cuando la cobertura del centro del campo está asegurada",
+            "Un delantero que fija a los centrales"
+          ],
+          "matchPlan": "Haz circular el balón a través de los tres centrocampistas, crea triángulos cerca de la línea de banda y evita que ambos laterales suban al mismo tiempo."
+        },
+        {
+          "id": "formation-442",
+          "label": "4-4-2 — Contraataque directo",
+          "summary": "Un sistema sencillo de dos delanteros que ofrece líneas de pase claras, amplitud defensiva y opciones rápidas de contraataque.",
+          "bestFor": [
+            "Contraataques",
+            "Centros",
+            "Parejas de delanteros"
+          ],
+          "roles": [
+            "Un delantero que gana la espalda",
+            "Un delantero que baja a recibir o aguanta el balón",
+            "Centrocampistas de banda que apoyan en ambas fases",
+            "Un centrocampista central que se queda atrás",
+            "Un centrocampista central que avanza con el balón"
+          ],
+          "matchPlan": "Defiende en dos líneas compactas, recupera el balón en el centro y lanza rápido a un extremo o al delantero más rápido."
+        },
+        {
+          "id": "formación-523",
+          "label": "5-2-3 — Seguridad defensiva",
+          "summary": "Un sistema de tres centrales con carrileros y tres delanteros para una protección adicional sin perder amplitud en el contragolpe.",
+          "bestFor": [
+            "Defender la ventaja",
+            "Bloquear ataques por el centro",
+            "Contragolpes por las bandas"
+          ],
+          "roles": [
+            "Un defensa central que mantiene la posición",
+            "Dos centrales exteriores cómodos cubriendo las bandas",
+            "Carrileros con resistencia y velocidad de recuperación",
+            "Dos centrocampistas centrales que protegen las transiciones",
+            "Delanteros abiertos que se mantienen listos para el contragolpe"
+          ],
+          "matchPlan": "Mantén compacta a la pareja de centrocampistas, da salida a un solo carrilero a la vez y ataca rápidamente el espacio por fuera de los laterales rivales."
+        },
+        {
+          "id": "ajustes-de-jugabilidad",
+          "label": "Jugabilidad competitiva vs. auténtica",
+          "summary": "Usa el ajuste preestablecido de jugabilidad que coincida con el modo y la sensación de partido que buscas.",
+          "bestFor": [
+            "Modos online",
+            "Modos offline",
+            "Deslizadores personalizados"
+          ],
+          "roles": [
+            "Competitivo: ajustado para una respuesta más rápida, consistencia y control directo en Ultimate Team y Clubs.",
+            "Auténtico: ajustado para un ritmo, posicionamiento, comportamiento del balón y fatiga realistas en la Carrera de mánager y la Carrera de jugador.",
+            "Usa deslizadores personalizados en los modos offline para ajustar la asistencia, el error de pase, el error de tiro, la fatiga y el comportamiento defensivo."
+          ],
+          "matchPlan": "Elige Competitivo para el juego online y Auténtico para partidas guardadas inmersivas en el modo Carrera offline."
+        },
+        {
+          "id": "controles-de-ataque",
+          "label": "Controles de ataque esenciales",
+          "summary": "Controles básicos para pasar, tirar, centrar, esprintar y proteger el balón.",
+          "bestFor": [
+            "Pases",
+            "Tiros",
+            "Centros"
+          ],
+          "roles": [
+            "Pase raso o cabezazo — PlayStation X, Xbox A",
+            "Pase al hueco — PlayStation Triángulo, Xbox Y",
+            "Tiro o volea — PlayStation Círculo, Xbox B",
+            "Pase bombeado o centro — PlayStation Cuadrado, Xbox X",
+            "Esprintar — R2 en PlayStation, RT en Xbox",
+            "Proteger el balón — L2 en PlayStation, LT en Xbox",
+            "Desmarque de compañero — L1 en PlayStation, LB en Xbox",
+            "Pedir apoyo — R1 en PlayStation, RB en Xbox"
+          ],
+          "matchPlan": "Los jugadores de PC pueden reasignar cada acción en Personalizar controles y usar un mando para disfrutar de la experiencia completa."
+        },
+        {
+          "id": "controles-defensivos",
+          "label": "Controles esenciales de defensa y portero",
+          "summary": "Comandos básicos para cambiar de jugador, bregar, presionar, entrar y hacer salir al portero.",
+          "bestFor": [
+            "Defensa",
+            "Entradas",
+            "Portero"
+          ],
+          "roles": [
+            "Cambiar jugador — L1 o el stick derecho en PlayStation, LB o el stick derecho en Xbox",
+            "Bregar — L2 en PlayStation, LT en Xbox",
+            "Bregar en carrera — L2 + R2 en PlayStation, LT + RT en Xbox",
+            "Entrada normal — Círculo en PlayStation, B en Xbox",
+            "Entrada agresiva — Cuadrado en PlayStation, X en Xbox",
+            "Presión de segundo defensa — Mantener pulsado R1 en PlayStation, mantener pulsado RB en Xbox",
+            "Salida del portero — Mantener pulsado Triángulo en PlayStation, mantener pulsado Y en Xbox"
+          ],
+          "matchPlan": "Domina la brega y la presión del segundo jugador antes de confiar en las entradas normales."
+        },
+        {
+          "id": "configuracion-controles-pc",
+          "label": "Configuración de controles en PC",
+          "summary": "PC es compatible con mandos y controles de teclado totalmente reasignables.",
+          "bestFor": [
+            "PC",
+            "Teclado",
+            "Mando"
+          ],
+          "roles": [
+            "Abre Ajustes y entra en Personalizar controles.",
+            "Elige la entrada de mando o teclado.",
+            "Vincula primero Pase raso, Pase al hueco, Tiro, Centro, Esprintar, Bregar y Cambiar jugador.",
+            "Usa la superposición de mandos para confirmar que los comandos locales se están registrando durante un partido."
+          ],
+          "matchPlan": "Guarda múltiples perfiles de control si alternas entre teclado y mando."
+        }
+      ]
+    },
+    "fcClubsRush": {
+      "eyebrow": "Clubs y Rush",
+      "title": "Guía de Clubs y Rush de EA Sports FC 27",
+      "subtitle": "Crea un Club, desarrolla un Pro virtual, asciende de división y juega a Rush, Eventos en directo, Ligas y Eliminatorias con amigos.",
+      "intro": "El progreso de Clubs se basa en 13 arquetipos, XP de arquetipo, puntos de atributo, Estilos de juego característicos y especializaciones. Los jugadores pueden unirse a varios clubes, competir en diez divisiones de Rush y participar en eventos de eliminación rotativos con reglas y recompensas especiales.",
+      "displayType": "lista-tarjetas",
+      "items": [
+        {
+          "title": "Crear o unirse a un Club",
+          "summary": "Crea un equipo con amigos o únete a un Club existente antes de seleccionar una posición y entrar al vestíbulo.",
+          "facts": [
+            "El vestíbulo muestra el encaje de rol y la valoración general para las posiciones libres.",
+            "Las asignaciones de jugadas a balón parado se pueden gestionar antes de los partidos.",
+            "Los partidos informales están disponibles cuando tus compañeros habituales de Club no están conectados."
+          ]
+        },
+        {
+          "title": "Elegir un arquetipo",
+          "summary": "Selecciona una identidad de juego clara para tu Pro virtual y desarróllala a través de partidos y juegos de habilidad.",
+          "archetypes": [
+            "Parador",
+            "Portero líbero",
+            "Progresor",
+            "Jefe",
+            "Motor",
+            "Merodeador",
+            "Reciclador",
+            "Maestro",
+            "Creador",
+            "Chispa",
+            "Mago",
+            "Finalizador",
+            "Referencia"
+          ],
+          "facts": [
+            "Hay 13 Arquetipos distintos.",
+            "El primer Arquetipo se selecciona al entrar en Clubs.",
+            "Otros Arquetipos se pueden desbloquear con Monedas de Clubs, FC Points o consumibles de desbloqueo de Arquetipo."
+          ]
+        },
+        {
+          "title": "Desarrolla tu Pro Virtual",
+          "summary": "Gana AXP de Arquetipo en los partidos, gasta Puntos de atributo y desbloquea más formas de especializar tu configuración.",
+          "facts": [
+            "La Valoración de rol proporciona la mayor parte de los AXP del partido.",
+            "Las acciones de juego también añaden AXP.",
+            "Los PlayStyles característicos pueden mejorar a PlayStyle+ mediante la progresión.",
+            "Los espacios de PlayStyle personalizados requieren los umbrales de atributos pertinentes.",
+            "Cada Arquetipo tiene tres rutas de Especialización y solo una puede estar activa a la vez."
+          ]
+        },
+        {
+          "title": "Usa varios Clubs",
+          "summary": "Muévete entre diferentes grupos de amigos sin dejar tu Club principal.",
+          "facts": [
+            "Un jugador puede ser miembro de hasta tres Clubs al mismo tiempo.",
+            "El menú Cambiar de Clubs permite el movimiento libre entre los Clubs a los que te has unido.",
+            "Las recompensas de Rush y de los Playoffs se obtienen para un club favorito seleccionado."
+          ]
+        },
+        {
+          "title": "Ligas y Playoffs de Clubs",
+          "summary": "Sube de división durante la liga, clasifícate para los Playoffs y compite por el ascenso y recompensas de temporada.",
+          "facts": [
+            "El rendimiento en la liga determina el progreso de división.",
+            "Los Playoffs proporcionan un objetivo competitivo independiente.",
+            "Los objetivos de Fundamentos, Arquetipo, de temporada, semanales y diarios otorgan recompensas de progresión."
+          ]
+        },
+        {
+          "title": "Clubs Rush",
+          "summary": "Juega partidos rápidos de 5 contra 5 y sube desde la división inicial hacia el Rango Élite.",
+          "facts": [
+            "Clubs Rush contiene diez divisiones.",
+            "Sé portero es compatible con los partidos reales de 5 contra 5.",
+            "Rush utiliza el sistema de progresión de Pro Virtual y Arquetipos de Clubs.",
+            "El Juego Competitivo está bloqueado para Clubs."
+          ]
+        },
+        {
+          "title": "Eventos en directo de Rush",
+          "summary": "Participa en torneos rotativos de eliminación directa con requisitos de entrada, reglas especiales y recompensas de evento.",
+          "facts": [
+            "Los eventos pueden contener hasta cuatro rondas eliminatorias.",
+            "Los jugadores tienen un número limitado de intentos.",
+            "Las reglas de entrada pueden requerir un rango de Rush, un nivel de Arquetipo o un Arquetipo específico.",
+            "Los formatos especiales incluyen Goleador Designado y Rugby Rush.",
+            "Las recompensas pueden incluir artículos cosméticos, fondos de carta de Arquetipo y consumibles de progresión."
+          ]
+        },
+        {
+          "title": "Juega online con amigos",
+          "summary": "Invita a amigos a través de EA Connect y usa el cross-play dentro de los grupos de generación de plataformas compatibles.",
+          "facts": [
+            "PC, PlayStation 5 y Xbox Series X|S juegan en el grupo de cross-play de la generación actual.",
+            "PlayStation 4 y Xbox One juegan en el grupo de cross-play de la generación anterior.",
+            "Nintendo Switch y Nintendo Switch 2 no se unen al grupo de cross-play de PC, PlayStation o Xbox.",
+            "El cross-play es compatible con Partidos informales de Clubs, Amistosos, Liga, Eliminatorias, Práctica, Rush y Eventos en vivo."
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas",
+    "titleHighlight": "frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre EA Sports FC 27",
+    "questions": [
+      {
+        "question": "¿Cuándo sale EA Sports FC 27?",
+        "answer": "EA Sports FC 27 tiene previsto su lanzamiento para finales de septiembre. EA Sports FC 24, FC 25 y FC 26 se lanzaron el último viernes de septiembre, lo que establece esa ventana de lanzamiento para FC 27. La fecha exacta de lanzamiento mundial se confirmará en la presentación oficial."
+      },
+      {
+        "question": "¿En qué plataformas estará disponible EA Sports FC 27?",
+        "answer": "Se espera que EA Sports FC 27 esté disponible en la misma familia de plataformas que los títulos recientes: PlayStation 5, Xbox Series X|S, PlayStation 4, Xbox One, Nintendo Switch, Nintendo Switch 2 y PC. Los grupos de crossplay siguen la estructura de EA Sports FC, con las consolas de la generación actual y PC en un mismo grupo y Nintendo Switch funcionando de forma independiente."
+      },
+      {
+        "question": "¿Tendrá EA Sports FC 27 recompensas de transferencia de Ultimate Team?",
+        "answer": "Sí. EA ha confirmado que ciertas actividades de FC 26 otorgan recompensas en EA Sports FC 27. Juega un partido de la fase de grupos en el modo The World's Game, completa todas las regiones en el objetivo Journey of Nations y alcanza el nivel 30 en la Temporada 9 de FC 26 World Tour; luego, usa la misma Cuenta EA en FC 27 para recibir las recompensas."
+      },
+      {
+        "question": "¿Qué es EA Sports FC 27 Ultimate Team?",
+        "answer": "EA Sports FC 27 Ultimate Team es el modo de juego basado en cartas donde creas un club con artículos de jugador, completas objetivos, negocias en el Mercado de transferencias, realizas Evoluciones y compites en Division Rivals, Squad Battles y Champions. La Web App y la Companion App te permiten gestionar tu plantilla fuera de tu consola o PC."
+      },
+      {
+        "question": "¿Cómo funciona el crossplay en EA Sports FC 27?",
+        "answer": "El crossplay de EA Sports FC 27 conecta a jugadores dentro de grupos de generación de plataformas. PC, PlayStation 5 y Xbox Series X|S forman el grupo de la generación actual, PlayStation 4 y Xbox One forman el grupo de la generación anterior, y los sistemas Nintendo Switch se mantienen por separado. El progreso cruzado de Ultimate Team es compatible entre Nintendo Switch y Nintendo Switch 2."
+      },
+      {
+        "question": "¿Dónde puedo encontrar las valoraciones de los jugadores de EA Sports FC 27?",
+        "answer": "Las valoraciones de los jugadores de EA Sports FC 27 provienen de la base de datos oficial de calificaciones de EA Sports FC, que incluye la valoración general, ritmo, tiro, pase, regate, defensa y físico. Usa la guía de Valoraciones de jugadores para comparar a los futbolistas mejor valorados, los líderes en ritmo, los mejores jugadores jóvenes y los líderes por posición."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Mantente al día con EA Sports FC 27",
+    "description": "¡Únete a la comunidad de EA SPORTS FC en Discord para enterarte de las noticias del lanzamiento, actualizaciones de FC 27, consejos de Ultimate Team y debates!",
+    "joinCommunity": "Unirse a Discord",
+    "joinGame": "Visitar EA SPORTS FC"
+  },
+  "footer": {
+    "title": "Wiki de EA Sports FC 27",
+    "description": "Tu centro no oficial para noticias de lanzamiento de EA Sports FC 27, valoraciones, Ultimate Team, Career Mode, Clubs y cobertura del juego.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "discord": "Discord",
+    "twitter": "X / Twitter",
+    "reddit": "Reddit",
+    "youtube": "YouTube",
+    "about": "Acerca de",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 EA Sports FC 27 Wiki. No está afiliado con Electronic Arts o EA SPORTS FC.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+  },
+  "pages": {
+    "release": {
+      "title": "Fecha de lanzamiento y tráiler de EA Sports FC 27",
+      "description": "Fecha de lanzamiento de EA Sports FC 27, revelación de la portada, anuncio, tráiler oficial, acceso a la beta y calendario de acceso anticipado: todos los detalles del lanzamiento en un solo lugar.",
+      "metaTitle": "Fecha de lanzamiento, tráiler y revelación de la portada de EA Sports FC 27",
+      "metaDescription": "Sigue la fecha de lanzamiento de EA Sports FC 27, la estrella de portada, el anuncio, el tráiler oficial, el acceso a la beta y los horarios de desbloqueo del acceso anticipado en todas las regiones.",
+      "categoryLabel": "LANZAMIENTO",
+      "whatIs": "¿Qué es el rastreador de lanzamiento de FC 27?",
+      "whatIsDescription": "El rastreador de lanzamiento de EA Sports FC 27 recopila todos los detalles del estreno: la fecha de lanzamiento oficial, la estrella de portada, el anuncio, el tráiler de revelación, las ventanas de acceso a la beta y los horarios de desbloqueo del acceso anticipado, para que siempre sepas exactamente cuándo y cómo llega el juego.",
+      "why": "¿Por qué seguir el rastreador de lanzamiento?",
+      "whySteps": {
+        "step1Title": "Conoce la fecha de lanzamiento",
+        "step1Description": "Encuentra la fecha de lanzamiento oficial de EA Sports FC 27 y los horarios de desbloqueo por región",
+        "step2Title": "No te pierdas la revelación",
+        "step2Description": "Sigue a la estrella de portada, el anuncio y el tráiler de revelación a medida que salgan",
+        "step3Title": "Consigue acceso anticipado",
+        "step3Description": "Asegura el acceso a la beta y el acceso anticipado mediante las reservas y EA Play"
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de lanzamiento"
+    },
+    "editions": {
+      "title": "Ediciones y precios de EA Sports FC 27",
+      "description": "Compara cada edición de EA Sports FC 27 (Standard y Ultimate) con precios, bonificaciones de reserva, FC Points y días de acceso anticipado.",
+      "metaTitle": "Ediciones, precios y bonificaciones de reserva de EA Sports FC 27",
+      "metaDescription": "Compara las ediciones Standard y Ultimate de EA Sports FC 27, precios, bonificaciones de reserva, FC Points, ventajas de EA Play y días de acceso anticipado antes de comprar.",
+      "categoryLabel": "EDICIONES",
+      "whatIs": "¿Qué son las ediciones de FC 27?",
+      "whatIsDescription": "Las ediciones de EA Sports FC 27 dividen el juego en los paquetes Standard y Ultimate, cada uno con su propio precio, bonificaciones de reserva, asignación de FC Points y ventana de acceso anticipado para que puedas elegir la versión que mejor se adapte a tu forma de jugar.",
+      "why": "¿Por qué comparar ediciones?",
+      "whySteps": {
+        "step1Title": "Elige la versión correcta",
+        "step1Description": "Compara los contenidos de las ediciones Standard y Ultimate cara a cara",
+        "step2Title": "Maximiza las bonificaciones",
+        "step2Description": "Acumula bonificaciones de reserva, FC Points y ventajas de EA Play",
+        "step3Title": "Juega antes",
+        "step3Description": "Aprovecha los días de acceso anticipado para empezar antes del día del lanzamiento"
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de ediciones"
+    },
+    "platforms": {
+      "title": "Plataformas y Crossplay de EA Sports FC 27",
+      "description": "Soporte de plataformas de EA Sports FC 27 en PS5, PS4, Xbox, PC y Nintendo Switch, además de grupos de crossplay, requisitos del sistema para PC y diferencias en la tasa de fotogramas.",
+      "metaTitle": "Plataformas, Crossplay y requisitos del sistema para PC de EA Sports FC 27",
+      "metaDescription": "Obtén detalles de las plataformas de EA Sports FC 27 para PS5, PS4, Xbox, PC y Nintendo Switch, incluyendo grupos de crossplay, requisitos del sistema para PC y diferencias en la tasa de fotogramas.",
+      "categoryLabel": "PLATAFORMAS",
+      "whatIs": "¿Qué son las guías de plataformas de FC 27?",
+      "whatIsDescription": "Las guías de plataformas de EA Sports FC 27 cubren todas las consolas compatibles y PC (PlayStation, Xbox, Nintendo Switch y PC), junto con los grupos de crossplay, los requisitos del sistema para PC y las diferencias de frecuencia de fotogramas y funciones entre generaciones.",
+      "why": "¿Por qué consultar las guías de plataformas?",
+      "whySteps": {
+        "step1Title": "Elige tu plataforma",
+        "step1Description": "Compara la compatibilidad con PS5, PS4, Xbox, PC y Nintendo Switch",
+        "step2Title": "Entiende el crossplay",
+        "step2Description": "Consulta qué plataformas pueden jugar juntas en los grupos de crossplay",
+        "step3Title": "Ejecútalo en PC",
+        "step3Description": "Cumple con los requisitos mínimos y recomendados del sistema para PC"
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de plataformas"
+    },
+    "career": {
+      "title": "Modo Carrera de EA Sports FC 27",
+      "description": "Domina el Modo Carrera de EA Sports FC 27: Carrera de mánager, Carrera de jugador, carrera online, fichajes, ojeo, desarrollo de jóvenes promesas y wonderkids.",
+      "metaTitle": "Modo Carrera de EA Sports FC 27: Carrera de mánager, de jugador y online",
+      "metaDescription": "Domina el Modo Carrera de EA Sports FC 27 con guías sobre la Carrera de mánager, Carrera de jugador, carrera online, fichajes, ojeo, desarrollo de jóvenes promesas y wonderkids.",
+      "categoryLabel": "CARRERA",
+      "whatIs": "¿Qué es el Modo Carrera de FC 27?",
+      "whatIsDescription": "El Modo Carrera de EA Sports FC 27 te permite tomar el control como mánager o dirigir la trayectoria de un solo jugador, con opciones de fichajes, ojeo, desarrollo de jóvenes promesas y carrera online para construir una dinastía a lo largo de varias temporadas.",
+      "why": "¿Por qué jugar al Modo Carrera?",
+      "whySteps": {
+        "step1Title": "Dirige un club",
+        "step1Description": "Gestiona fichajes, ojeo y el desarrollo de jóvenes promesas como mánager",
+        "step2Title": "Crea un Pro",
+        "step2Description": "Haz crecer a un solo jugador de promesa a superestrella",
+        "step3Title": "Juega online",
+        "step3Description": "Lleva tu carrera online con amigos y rivales"
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías del Modo Carrera"
+    },
+    "features": {
+      "title": "Características y jugabilidad de EA Sports FC 27",
+      "description": "Nuevas características, motor de juego, el mundo abierto The Grounds, estadios y cada nuevo sistema que EA lleva al terreno de juego en EA Sports FC 27.",
+      "metaTitle": "Nuevas características, motor y The Grounds de EA Sports FC 27",
+      "metaDescription": "Explora las nuevas características de EA Sports FC 27, el nuevo motor de juego, el mundo abierto The Grounds, los estadios y cada nuevo sistema que cambia la forma de jugar.",
+      "categoryLabel": "CARACTERÍSTICAS",
+      "whatIs": "¿Qué son las características de FC 27?",
+      "whatIsDescription": "Las características de EA Sports FC 27 cubren cada nuevo sistema que EA añade al juego: el nuevo motor de juego, el centro de mundo abierto The Grounds, estadios rediseñados y mejoras en cada partido que definen las sensaciones de juego.",
+      "why": "¿Por qué seguir las nuevas características?",
+      "whySteps": {
+        "step1Title": "Descubre las novedades",
+        "step1Description": "Descubre el motor de juego y los cambios del sistema para FC 27",
+        "step2Title": "Explora The Grounds",
+        "step2Description": "Recorre el centro de mundo abierto y descubre qué puedes hacer allí",
+        "step3Title": "Recorre los estadios",
+        "step3Description": "Consulta los estadios rediseñados y los ambientes de los partidos"
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de funciones"
+    },
+    "teams": {
+      "title": "Equipos y ligas de EA Sports FC 27",
+      "description": "Todos los equipos y ligas de EA Sports FC 27: nuevas licencias, equipos brasileños, Liga MX, UEFA Champions League y el modo World Cup.",
+      "metaTitle": "Equipos, ligas y modo World Cup de EA Sports FC 27",
+      "metaDescription": "Explora los equipos y ligas de EA Sports FC 27, incluyendo nuevas licencias, equipos brasileños, Liga MX, la UEFA Champions League y el modo World Cup.",
+      "categoryLabel": "EQUIPOS",
+      "whatIs": "¿Qué son los equipos y ligas de FC 27?",
+      "whatIsDescription": "Los equipos y ligas de EA Sports FC 27 cubren todos los clubes y competiciones del juego: nuevas licencias, equipos brasileños, Liga MX, la UEFA Champions League y un modo World Cup que te permite jugar el torneo más grande del fútbol.",
+      "why": "¿Por qué explorar equipos y ligas?",
+      "whySteps": {
+        "step1Title": "Encuentra tu club",
+        "step1Description": "Comprueba si tus equipos y ligas favoritos están en FC 27",
+        "step2Title": "Sigue las nuevas licencias",
+        "step2Description": "Mira qué nuevas ligas y clubes ha añadido EA",
+        "step3Title": "Juega la World Cup",
+        "step3Description": "Lleva a una nación a través del modo World Cup"
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de equipos"
+    },
+    "ratings": {
+      "title": "Valoraciones de jugadores de EA Sports FC 27",
+      "description": "Valoraciones de jugadores de EA Sports FC 27, mejoras y bajadas de valoración, Icons, cartas Hero y rostros reales: todos los artículos de jugador clasificados y comparados.",
+      "metaTitle": "Valoraciones de jugadores, Icons y cartas Hero de EA Sports FC 27",
+      "metaDescription": "Compara las valoraciones de jugadores de EA Sports FC 27, las mejoras y bajadas de valoración, los Icons, las cartas Hero y los rostros reales para encontrar a los mejores jugadores para tu plantilla.",
+      "categoryLabel": "VALORACIONES",
+      "whatIs": "¿Qué son las valoraciones de jugadores de FC 27?",
+      "whatIsDescription": "Las valoraciones de jugadores de EA Sports FC 27 puntúan cada artículo de jugador en valoración general, ritmo, tiro, pase, regate, defensa y físico, junto con Icons especiales, cartas Hero y escaneos de rostros reales para que sepas exactamente a quién fichar.",
+      "why": "¿Por qué consultar las valoraciones de los jugadores?",
+      "whySteps": {
+        "step1Title": "Encuentra a los mejores",
+        "step1Description": "Compara a los jugadores con mejor valoración general y por atributo",
+        "step2Title": "Sigue las mejoras",
+        "step2Description": "Sigue las mejoras y bajadas de valoración a lo largo de la temporada",
+        "step3Title": "Colecciona especiales",
+        "step3Description": "Busca Icons, cartas Hero y jugadores con rostros reales"
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de valoraciones"
+    },
+    "guide": {
+      "title": "Guías de EA Sports FC 27",
+      "description": "Guías para principiantes, consejos sobre si comprarlo y selecciones de la comunidad para EA Sports FC 27: todo lo que necesitas para decidirte y empezar.",
+      "metaTitle": "Guía para principiantes y ¿Deberías comprarlo? de EA Sports FC 27",
+      "metaDescription": "Lee las guías para principiantes de EA Sports FC 27, los consejos sobre si comprarlo y las selecciones de la comunidad de Reddit para decidir si FC 27 es para ti y empezar con fuerza.",
+      "categoryLabel": "GUÍAS",
+      "whatIs": "¿Qué son las guías de FC 27?",
+      "whatIsDescription": "Las guías de EA Sports FC 27 te ayudan a decidir si el juego vale la pena y a ponerte al día rápidamente, cubriendo aspectos esenciales para principiantes, análisis de compra y los mejores debates de la comunidad de Reddit y más allá.",
+      "why": "¿Por qué leer las guías de FC 27?",
+      "whySteps": {
+        "step1Title": "Decide si es para ti",
+        "step1Description": "Lee el análisis de compra antes de decidirte",
+        "step2Title": "Empieza con fuerza",
+        "step2Description": "Aprende lo esencial para principiantes en tus primeros partidos",
+        "step3Title": "Únete a la comunidad",
+        "step3Description": "Conecta con Reddit y el resto de la comunidad de FC 27"
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de FC 27"
+    }
+  }
+}

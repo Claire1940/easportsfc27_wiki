@@ -263,7 +263,7 @@ export default function HomePageClient({
                            text-white rounded-lg font-semibold text-base md:text-lg transition-colors"
               >
                 <BookOpen className="w-5 h-5" />
-                {t.hero.getFreeCodesCTA}
+                {t.hero.latestUpdatesCTA}
               </button>
               <a
                 href="https://www.ea.com/games/ea-sports-fc"
@@ -273,7 +273,7 @@ export default function HomePageClient({
                            border border-border hover:bg-white/10 rounded-lg
                            font-semibold text-base md:text-lg transition-colors"
               >
-                {t.hero.playOnRobloxCTA}
+                {t.hero.visitGameCTA}
                 <ArrowRight className="w-5 h-5" />
               </a>
             </div>
