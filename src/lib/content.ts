@@ -71,6 +71,9 @@ export type ContentType = typeof CONTENT_TYPES[number]
 // 支持的语言（使用 routing.ts 中的 Locale 类型）
 export type Language = Locale
 
+// 支持的语言列表（单一数据源：直接引用 routing.ts，与 routing.ts 的 locales 完全一致）
+export const validLanguages: readonly string[] = routing.locales
+
 // 内容项接口
 export interface ContentItem {
   slug: string
